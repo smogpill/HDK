@@ -1,0 +1,6 @@
+"Yes, senescent cells is a really interesting field, but there’s significant challenges with it. For example, senescent cells, they do have a role to play in health. For example, in wound healing, the concept of senescence is vital for appropriate wound healing and some forms of senescent cells do appear to be good, you don’t want to remove them, whereas other senescent cells likely worsen the situation in terms of human health.
+
+It’s really tricky to know which senescent cells we should be removing and which we should be keeping. That’s issue number one, and then issue number two is, even if you can identify that you want to remove certain senescent cells, how do you do that, it’s incredibly difficult. It’s like trying to remove cancer cells, and trying to remove cancer cells is very, very difficult. I’d mentioned that we’re probably going to have the same challenges with trying to remove specific senescent cells. I’m excited about the idea, but there’s a heck of a lot of work that still needs to go on." [1]
+
+# References
+[1][NMN vs. NAD vs. NR With Dr. Brad Stanfield (2021)](https://www.lifespan.io/news/nmn-vs-nad-vs-nr-with-dr-brad-stanfield/)
