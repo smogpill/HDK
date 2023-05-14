@@ -1,3 +1,5 @@
+Other names: Nicotinic Acid, NA
+
 # Posology
 - Instant-release is safest version over sustained/slow release versions [2]
 - "That’s the latest data that we’ve gotten; personally, for me, I can’t tolerate more than 100 milligrams of nicotinic acid. I only take a very small amount because I get very flushed, and I find that it burns if I take more than 100 milligrams. That’s as much as I can take." - Dr Brad Stanfield [2]
