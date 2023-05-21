@@ -1,3 +1,1 @@
-See also [supplement.md](../supplements/zinc.md)
-
-# References
+See also [supplements/zinc](../supplements/zinc.md)
