@@ -11,3 +11,5 @@ Also known as Collagen Peptides
 
 # References
 [1][How Collagen Peptides REVERSE Skin Aging - Brad Stanfield (2023)](https://www.youtube.com/watch?v=IAXYVyiYZKQ)
+[2][How To Look Younger Than Your Age - Latest Advances - Brad Stanfield](https://www.youtube.com/watch?v=OTWgk7MIJDU)
+[3][Collagen supplementation for skin health: A mechanistic systematic review - 2020](https://pubmed.ncbi.nlm.nih.gov/32436266/)
