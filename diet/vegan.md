@@ -1,0 +1,2 @@
+# References
+[1][Vegetarian or vegan diets and blood lipids: a meta-analysis of randomized trials (2023)](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad211/7177660?login=false)[Reddit](https://www.reddit.com/r/science/comments/13rqp7j/vegetarian_and_vegan_diets_were_associated_with/)
