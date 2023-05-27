@@ -11,4 +11,4 @@ Not well studied for heart [1]
 - Might interact with some medications [1]
 
 # References
-[1][CBD and the Heart. What the Research Says and Potential Uses.](https://www.youtube.com/watch?v=9zItaLVc5kk)
+[1][CBD and the Heart. What the Research Says and Potential Uses. - CardioGauge (2020)](https://www.youtube.com/watch?v=9zItaLVc5kk)
