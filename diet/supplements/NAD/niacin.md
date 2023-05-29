@@ -16,5 +16,6 @@ It’s theoretical; there’s not a huge amount of data behind it. TMG, as I sai
 - Can deplete methyl pools [2] -> taking TMG might solve the issue
 
 # References
-[1] [LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. (2020)](https://www.ncbi.nlm.nih.gov/books/NBK548176/#:~:text=Niacin%20can%20cause%20mild%2Dto,severe%20as%20well%20as%20fatal.)
-[2] [NMN vs. NAD vs. NR With Dr. Brad Stanfield (2021)](https://www.lifespan.io/news/nmn-vs-nad-vs-nr-with-dr-brad-stanfield/)
+[1][LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. (2020)](https://www.ncbi.nlm.nih.gov/books/NBK548176/#:~:text=Niacin%20can%20cause%20mild%2Dto,severe%20as%20well%20as%20fatal.)
+[2][NMN vs. NAD vs. NR With Dr. Brad Stanfield (2021)](https://www.lifespan.io/news/nmn-vs-nad-vs-nr-with-dr-brad-stanfield/)
+[3][Blood levels of nicotinic acid negatively correlate with hearing ability in healthy older men (2023)](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-03796-3)

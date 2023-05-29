@@ -1,0 +1,2 @@
+# References
+[1][Hi guys, i’ve noticed Bryan doesn’t supplement choline , where does he get it? its only in animal products, and it’s very important for brain function. - Reddit (2023)](https://www.reddit.com/r/blueprint_/comments/13t9657/hi_guys_ive_noticed_bryan_doesnt_supplement/)
