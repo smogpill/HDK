@@ -1,0 +1,2 @@
+# References
+[1][Metabolic Effects of Monounsaturated Fatty Acid–Enriched Diets Compared With Carbohydrate or Polyunsaturated Fatty Acid–Enriched Diets in Patients With Type 2 Diabetes: A Systematic Review and Meta-analysis of Randomized Controlled Trials (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4955926/)

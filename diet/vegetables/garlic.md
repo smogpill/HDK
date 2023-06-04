@@ -1,0 +1,2 @@
+# References
+[1][Antihyperglycemic, antihyperlipidemic, anti-inflammatory and adenosine deaminase– lowering effects of garlic in patients with type 2 diabetes mellitus with obesity (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3554227/)

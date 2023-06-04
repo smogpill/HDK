@@ -1,0 +1,2 @@
+# References
+[1][Daily red wine vinegar ingestion for eight weeks improves glucose homeostasis and affects the metabolome but does not reduce adiposity in adults (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/FO/C9FO01082C)
