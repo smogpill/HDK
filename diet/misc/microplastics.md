@@ -1,0 +1,3 @@
+# References
+[1][Cutting Boards: An Overlooked Source of Microplastics in Human Food? (2023)](https://pubs.acs.org/doi/abs/10.1021/acs.est.3c00924)
+[2][Plastic cutting boards are a potentially significant source of microplastics in human food (up to 50g of microplastics per year), though toxicity study of the polyethylene microplastics did not show adverse effects on the viability of mouse fibroblast cells for 72 h - Reddit (2023)](https://www.reddit.com/r/science/comments/140kt89/plastic_cutting_boards_are_a_potentially/)
