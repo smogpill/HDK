@@ -1,0 +1,3 @@
+# References
+[1][Skin Repair Reduces ‘Inflamm-Aging’ Factors Linked to Chronic Disease (2019)](https://www.ucsf.edu/news/2019/03/413576/skin-repair-eliminates-inflamm-aging-linked-chronic-disease)
+[2][Topical applications of an emollient reduce circulating pro-inflammatory cytokine levels in chronically aged humans: a pilot clinical study (2019)](https://onlinelibrary.wiley.com/doi/10.1111/jdv.15540)

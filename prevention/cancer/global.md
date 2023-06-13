@@ -14,3 +14,4 @@
 
 # References
 [1][New Cancer Prevention Study Results Released! - Brad Stanfield (2022)](https://www.youtube.com/watch?v=4k6XMhAzIxw)
+[2][New Blood Test Is Revolutionizing Cancer Detection! (2023)](https://www.youtube.com/watch?v=YZ095LYFqTU)
