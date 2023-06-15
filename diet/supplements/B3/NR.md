@@ -8,3 +8,5 @@
 
 # References
 [1][NMN vs. NAD vs. NR With Dr. Brad Stanfield (2021)](https://www.lifespan.io/news/nmn-vs-nad-vs-nr-with-dr-brad-stanfield/)
+[2][Nicotinamide Riboside Activates SIRT5 Deacetylation (2023)](https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16887)
+[3][Twitter - David Sinclair (2023)](https://twitter.com/davidasinclair/status/1667854117023232006?t=DPd6U9XdCSDKi9DESP9Nbg&s=03)

@@ -1,0 +1,2 @@
+# References
+[1][Consuming food during the daytime and avoiding nighttime eating, can have a beneficial effect on the gut microbiome, circadian rhythm, and metabolic well-being.: science - Reddit (2023)](https://www.reddit.com/r/science/comments/14568o9/consuming_food_during_the_daytime_and_avoiding/)
