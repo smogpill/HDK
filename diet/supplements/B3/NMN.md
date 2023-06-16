@@ -14,3 +14,4 @@
 [2][NMN vs. NAD vs. NR With Dr. Brad Stanfield (2021)](https://www.lifespan.io/news/nmn-vs-nad-vs-nr-with-dr-brad-stanfield/)
 [3][A rise in NAD precursor nicotinamide mononucleotide (NMN) after injury promotes axon degeneration (2015)](https://pubmed.ncbi.nlm.nih.gov/25323584/)
 [4][Axon Degeneration: Too Much NMN Is Actually Bad? (2017)](https://www.sciencedirect.com/science/article/pii/S0960982217302294)
+[5][Chronic nicotinamide mononucleotide supplementation elevates blood nicotinamide adenine dinucleotide levels and alters muscle function in healthy older men (2022)](https://www.nature.com/articles/s41514-022-00084-z)

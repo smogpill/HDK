@@ -1,0 +1,2 @@
+# References
+[1][Potassium Intake and Blood Pressure: A Dose-Response Meta-Analysis of Randomized Controlled Trials (2020)](https://pubmed.ncbi.nlm.nih.gov/32500831/)
