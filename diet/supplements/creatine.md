@@ -19,3 +19,4 @@
 [13][Effect of creatine supplementation on body composition and performance: a meta-analysis (2003)](https://pubmed.ncbi.nlm.nih.gov/12945830/)
 [14][International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine (2017)](https://pubmed.ncbi.nlm.nih.gov/28615996/)
 [15][Effect of creatine supplementation during resistance training on lean tissue mass and muscular strength in older adults: a meta-analysis (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5679696)
+[16][Inducement Of Cardiovascular Inflammation By Creatine! - PrevMed Health (2023)](https://www.youtube.com/watch?v=w4hHkUSuZ44)

@@ -1,2 +1,3 @@
 # References
 [1][The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
+[2][The biologic effects of grounding the human body during sleep as measured by cortisol levels and subjective reporting of sleep, pain, and stress (2004)](https://pubmed.ncbi.nlm.nih.gov/15650465/)
