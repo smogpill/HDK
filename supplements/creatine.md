@@ -1,7 +1,23 @@
+# Pros
+- Improves high intensity performance (less than 3 min) [17]
+- Improves recovery [17]
+- Might Enhance memory [17]
+- Poses no adverse health risks [17]
+- Decreasese uric acid. [17]
+- No evidence of baldness inducing [17]
+- No evidence of impact on DHT [17]
+- No evidence on kidneys dysfunction [17]
+- No evidence of muscle cramping [17]
+- No evidence of dehydration [17]
+
 # Cons
 - Concerns when taking creating supplements for people who have already high blood pressure. "Dr. Sonpal explains why creatine and blood pressure don't mix in some people: "Creatine makes your kidneys work harder, so there is a risk that it may cause your blood pressure to rise and/or worsen. The data is still conflicting as to a true link." But, to be safe, he says, "the best thing to do is avoid this supplement if you have hypertension.""[3]
 - Concerns about kidneys because of creatinine, though for now it seems that creatinine remains at safe levels [4]
 - Should increase water intake to avoid issues with kidneys. (Sources required)
+- Does not improve endurance [17]
+
+# Posology
+- 5g per day [17]
 
 # References
 [1][Why EVERYONE Should Use Creatine Supplements - Dr Brad Stanfield (2022)](https://www.youtube.com/watch?v=lPyOw5-WFho)
@@ -20,3 +36,4 @@
 [14][International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine (2017)](https://pubmed.ncbi.nlm.nih.gov/28615996/)
 [15][Effect of creatine supplementation during resistance training on lean tissue mass and muscular strength in older adults: a meta-analysis (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5679696)
 [16][Inducement Of Cardiovascular Inflammation By Creatine! - PrevMed Health (2023)](https://www.youtube.com/watch?v=w4hHkUSuZ44)
+[17][Longevity Supplements That *Actually* Work | July 2023 - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=_hOxXq0wi-0)
