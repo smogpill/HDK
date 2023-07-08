@@ -1,0 +1,3 @@
+# References
+[1][Prediction of Coronary Heart Disease Events: In middle-aged to older adults, the coronary artery calcium score but not the polygenic risk score improved CHD risk discrimination. - r/science (2023)](https://www.reddit.com/r/science/comments/140of77/prediction_of_coronary_heart_disease_events_in/)
+[2][Coronary Artery Calcium Score and Polygenic Risk Score for the Prediction of Coronary Heart Disease Events (2023)](https://jamanetwork.com/journals/jama/article-abstract/2805138)
