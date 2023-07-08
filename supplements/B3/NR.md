@@ -5,6 +5,10 @@
 - "they don’t cause increases in blood sugar levels" [1]
 - "seem to boost NAD more compared to nicotinic acid" [1]
 - "There was a study that was published showing that in people that needed hospital treatment from COVID-19, if you gave them nicotinamide riboside as well as a couple of other molecules, and you compared that to placebo, the NR group, they recovered three days faster." [1]
+- Increases intracellular NAD+ [9]
+
+# Cons
+- Accelerates cancer progression and metastasis of certain types of cancer? [5][9] (Mice used a super high dose equivalent of 30g per day + very aggressive cancer was injected)
 
 # References
 [1][NMN vs. NAD vs. NR With Dr. Brad Stanfield (2021)](https://www.lifespan.io/news/nmn-vs-nad-vs-nr-with-dr-brad-stanfield/)
@@ -15,3 +19,4 @@
 [6][Response by Charles Brenner (2022)](https://threadreaderapp.com/thread/1602003104957796352.html)
 [7][Does NR Cause Cancer? - Shelly Albaum (2022)](https://www.scienceofnad.com/post/does-nr-cause-cancer)
 [8][Balancing NAD+ deficits with nicotinamide riboside: therapeutic possibilities and limitations (2022)](https://link.springer.com/article/10.1007/s00018-022-04499-5)
+[9][NR supplements: wasted money may not be the only risk with these questionable “anti-aging” drugs (2022)](https://peterattiamd.com/nr-supplements-and-cancer/)
