@@ -1,0 +1,3 @@
+# References
+[1][Is short sleep bad for the brain? Brain structure and cognitive function in short sleepers (2023)](https://www.jneurosci.org/content/early/2023/06/16/JNEUROSCI.2330-22.2023)
+[2][Short sleep may not be bad for all brains: Study shows some people can cope with less sleep without obvious negative associations with brain morphometry, and that sleepiness and sleep problems may be more related to brain structural differences than duration. - r/science](https://www.reddit.com/r/science/comments/14jw4q0/short_sleep_may_not_be_bad_for_all_brains_study/)

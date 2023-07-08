@@ -1,0 +1,3 @@
+# References
+[1][Total meat (flesh) supply may be a significant risk factor for cardiovascular diseases worldwide (2023)](https://onlinelibrary.wiley.com/doi/10.1002/fsn3.3300)
+[2][New research shows consumption of both red and white meat from various animal sources was significantly linked to an increased incidence of cardiovascular disease, even after adjusting for confounding variables such as urbanization-related lifestyles, obesity, and socioeconomic status - r/science (2023)](https://www.reddit.com/r/science/comments/14f30a9/new_research_shows_consumption_of_both_red_and)
