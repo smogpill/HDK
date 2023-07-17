@@ -5,5 +5,5 @@
 
 # References
 [1][How to reverse Type 2 Diabetes | ft. Roy Taylor (2022) - Nutrition Made Simple!](https://www.youtube.com/watch?v=yuFjwfP4nGo)
-[2][What causes diabetes? | ft. Prof. Roy Taylor (2022) - Nutrition Made Simple!](https://www.youtube.com/watch?v=epgRw-vIRSA)
+[2][What causes diabetes? | ft. Prof. Roy Taylor (2022) - Nutrition Made Simple!](https://www.youtube.com/watch?v=vIRSA-epgRw)
 [3][What We Eat is Directly Linked to Prediabetes - Here's Why - Pradip Jamnadas (2022)](https://www.youtube.com/watch?v=OhZcxvGNzJY)

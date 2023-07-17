@@ -1,4 +1,4 @@
-- Promoted a lot by David Sinclair, but remains highly controversial.
+- Promoted a lot by David Sinclair, but remains controversial.
 
 # References
 [1][Resveratrol – The Unfortunate (& Scandalous) Story - Brad Stanfield (2022)](https://www.youtube.com/watch?v=JAFnD27ffqE)
@@ -8,3 +8,5 @@
 [5]["When you eat sugar, some of it attaches to your body’s proteins, an aging process called glycation. New study says oral resveratrol protects against glycation & kidney damage in a sugar-induced aging mouse model. Me: still taking resveratrol in yogurt" - David Sinclair](https://twitter.com/davidasinclair/status/1662505084960268291?t=vMmxqlT12M4UkmOdbspF9A&s=03)
 [6][Stop Using Resveratrol - r/NMN (2023)](https://www.reddit.com/r/NMN/comments/145bmjn/stop_using_resveratrol/)
 [7][Longevity MYSTERY: Why the ITP Study FAILED? | Episode 2 - Wellness Messiah with Rimon (2023)](https://www.youtube.com/watch?v=IDOi0ODewjE)
+[8][Resveratrol: A Double-Edged Sword in Health Benefits (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164842/)
+[9][RESVERATROL MYSTERY: Why Taking Too Much HURTS Your Longevity (ep. 2) - Wellness Messiah with Rimon (2023)](https://www.youtube.com/watch?v=JYs1on8EiFU)

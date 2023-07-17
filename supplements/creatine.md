@@ -37,3 +37,4 @@
 [15][Effect of creatine supplementation during resistance training on lean tissue mass and muscular strength in older adults: a meta-analysis (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5679696)
 [16][Inducement Of Cardiovascular Inflammation By Creatine! - PrevMed Health (2023)](https://www.youtube.com/watch?v=w4hHkUSuZ44)
 [17][Longevity Supplements That *Actually* Work | July 2023 - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=_hOxXq0wi-0)
+[18][Is Creatine Worth the Recent Hype? - Thomas DeLauer (2023)](https://youtu.be/XAAg_Wu2WwU)
