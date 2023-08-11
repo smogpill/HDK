@@ -13,3 +13,4 @@
 [8][Resveratrol: A Double-Edged Sword in Health Benefits (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164842/)
 [9][RESVERATROL MYSTERY: Why Taking Too Much HURTS Your Longevity (ep. 2) - Wellness Messiah with Rimon (2023)](https://www.youtube.com/watch?v=JYs1on8EiFU)
 [10][Avoid These Four Popular Supplements! (Damaging Effects) - Brad Stanfield (2023)](https://www.youtube.com/watch?v=hDyW4hSNcT0)
+[11][WHY David Sinclair Takes SO MUCH Resveratrol? (Ep. 5) - Wellness Messiah with Rimon (2023)](https://www.youtube.com/watch?v=e9rEZwlmUi8)
