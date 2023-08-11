@@ -19,3 +19,4 @@ Also known as: trimethylglycine, Betaine
 [1][NMN vs. NAD vs. NR With Dr. Brad Stanfield (2021)](https://www.lifespan.io/news/nmn-vs-nad-vs-nr-with-dr-brad-stanfield/)
 [2][Why TMG (Betaine) Supplements Are So Popular - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=9RyzwCr15Pk)
 [3][Longevity Supplements That *Actually* Work | July 2023 - Dra Brad Stanfield (2023)](https://www.youtube.com/watch?v=_hOxXq0wi-0)
+[4][David Sinclair Reveals Why He Takes NMN with TMG (2023)](https://www.youtube.com/watch?v=pxW72P-_zA8)
