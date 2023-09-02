@@ -5,10 +5,12 @@ Retinol is a retinoid
 - Seems to be highly effective against severe forms of psoriasis [7] 
 
 # Cons
+
 - Seems to be unsure if it does not age the skin long term [2][3][4]
 - Can damage glands leading to dry eyes [5][6]
 
 # References
+
 [1]: https://www.reddit.com/r/longevity/comments/13qj34w/senotherapeutic_peptide_treatment_reduces/ "Senotherapeutic peptide treatment reduces biological age and senescence burden in human skin models (2023)"
 [2][Senotherapeutic peptide treatment reduces biological age and senescence burden in human skin models (2023)](https://www.nature.com/articles/s41514-023-00109-1)
 [3]: https://pubmed.ncbi.nlm.nih.gov/21803488/ "All-trans retinoic acid induces cellular senescence via upregulation of p16, p21, and p27 (2011)"
