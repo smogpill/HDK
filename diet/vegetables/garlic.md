@@ -8,3 +8,5 @@
 - [4] [Effect of garlic on cardiovascular disorders: a review (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139960/)
 - [5] [The effect of aged garlic extract on the atherosclerotic process – a randomized double-blind placebo-controlled trial (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7191741/)
 - [6] [The effect of aged garlic extract on blood pressure and other cardiovascular risk factors in uncontrolled hypertensives: the AGE at Heart trial (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734812/)
+- [7] [Potential Garlic actions](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9574545_fphar-13-954938-g005.jpg)
+- [8] [Roles and mechanisms of garlic and its extracts on atherosclerosis: A review (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9574545/)
