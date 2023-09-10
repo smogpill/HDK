@@ -7,3 +7,4 @@
 - [6] [1 Herb Can Clear Clogged Arteries Reducing Plaque | Dr. Mandell (2023)](https://www.youtube.com/watch?v=3GdBYE7rBj0)
 - [7] [Aged Garlic Extract Inhibits Human Platelet Aggregation by Altering Intracellular Signaling and Platelet Shape Change (2016)](https://pubmed.ncbi.nlm.nih.gov/26764324/#affiliation-1)
 - [8] [Effect of garlic on cardiovascular disorders: a review (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139960/)
+- [9] [The effect of aged garlic extract on the atherosclerotic process – a randomized double-blind placebo-controlled trial (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7191741/)
