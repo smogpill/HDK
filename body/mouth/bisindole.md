@@ -1,0 +1,3 @@
+# References
+- [1] [90% Reduction: Scientists Discover Natural Molecule That Eradicates Plaques and Cavities (2023)](https://scitechdaily.com/90-reduction-scientists-discover-natural-molecule-that-eradicates-plaques-and-cavities/)
+- [2] [Scientists discover natural molecule that could significantly reduce plaque and cavities (2023)](https://www.reddit.com/r/worldnews/comments/16efmmn/scientists_discover_natural_molecule_that_could/)

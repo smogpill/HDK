@@ -1,0 +1,3 @@
+# References
+- [1] [A High-Tech Headband Could Detect Early Signs of Alzheimer's in Your Sleep (2023)](https://www.sciencealert.com/a-high-tech-headband-could-detect-early-signs-of-alzheimers-in-your-sleep)
+- [2] [Is the BCG Vaccine a Potential Shield Against Alzheimer’s? (2023)](https://neurosciencenews.com/alzheimers-bcg-vaccine-23284/) [paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2805030)

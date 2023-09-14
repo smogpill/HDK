@@ -1,0 +1,2 @@
+# References
+- [1] [Researchers have discovered how high-fat diets can change gut bacteria and alter digestive molecules called bile acids that are modified by those bacteria, predisposing mice to colorectal cancer (2023)](https://www.reddit.com/r/science/comments/15yy5q4/researchers_have_discovered_how_highfat_diets_can/) [article](https://www.salk.edu/news-release/high-fat-diets-alter-gut-bacteria-to-boost-colorectal-cancer-risk-in-mice/) [paper](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01008-2)

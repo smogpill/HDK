@@ -1,0 +1,2 @@
+# References
+- [1] [Common Blood Thinner May Double as Cancer Therapy (2023)](https://www.cuimc.columbia.edu/news/common-blood-thinner-may-double-cancer-therapy) [paper](https://pubmed.ncbi.nlm.nih.gov/37467745) [reddit](https://www.reddit.com/r/science/comments/15ts5eq/research_conducted_in_human_cells_and_in_mice/)

@@ -1,0 +1,2 @@
+# References
+- [1] [Ageing-associated changes in transcriptional elongation influence longevity (2023)](https://www.nature.com/articles/s41586-023-05922-y) [article](https://www.euronews.com/next/2023/08/26/german-scientists-make-a-major-discovery-that-could-slow-down-the-ageing-process)
