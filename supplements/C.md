@@ -1,3 +1,4 @@
 # References
 - [1] [Avoid These Four Popular Supplements! (Damaging Effects) - Brad Stanfield (2023)](https://www.youtube.com/watch?v=hDyW4hSNcT0)
 - [2] [A new study has found that antioxidants like vitamins C and E activate a mechanism that stimulates the growth of new blood vessels in cancer tumors, helping them to grow and spread. (2023)](https://www.reddit.com/r/science/comments/1673g7w/a_new_study_has_found_that_antioxidants_like/) [article](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/) [paper](https://www.jci.org/articles/view/169671)
+- [3] [Supplements That Shorten Your Lifespan - AVOID These - Siim Land (2023)](https://www.youtube.com/watch?v=oNJ33A2Z5tM)
