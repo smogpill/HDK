@@ -3,6 +3,7 @@ Also known as Collagen Peptides
 # Posology
 - Important that the supplement states that the collagen is either "peptides" or "hydrolyzed" (both being the same thing) or else the molecules would be too big for absorption. [1]
 - "I take 15 g a day and I mix it into my smoothie. " - Brad Stanfield [1][6]
+- Should be taken at room temperature because heat destroys collagen [9]
 
 # Pros
 - Improvements on wrinkles [1][6]
@@ -19,3 +20,4 @@ Also known as Collagen Peptides
 - [6] [Longevity Supplements That *Actually* Work | July 2023 - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=_hOxXq0wi-0)
 - [7] [New Study Shows Collagen Doesn’t Work? Controversial! - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=TAUVIa9Y9mM)
 - [8] [David Sinclair on COLLAGEN for YOUNG Looking Skin | Longevity Analysis By Rimon (2022)](https://www.youtube.com/watch?v=9Q3rnFpQWpE)
+- [9] [Do Collagen Supplements Work? | 5 HUGE Mistakes When Taking Collagen - Dr. Arsalan Aspires (2023)](https://www.youtube.com/watch?v=WIKgaNqFJE0)
