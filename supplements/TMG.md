@@ -1,4 +1,7 @@
-Also known as: trimethylglycine, Betaine
+# Also known as
+- Trimethylglycine
+- Betaine
+- Betaine anhydrous
 
 # Pros
 - Might reduce the side effects of niacin on methyl pools [1]
