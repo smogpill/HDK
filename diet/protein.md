@@ -3,6 +3,8 @@
 
 # Cons
 - Hyperprotein diet can damage kidneys if there is ground for kidney problems (hypertension, various kidney diseases, etc.)[2]
+- Activates mTORC1 [7]
+- Proteins might be healthspan vs lifespan. More proteins = healthspan, less proteins = lifespan [5][6][7]
 
 # References
 - [1] [A gut-secreted peptide suppresses arousability from sleep (2023)](https://www.cell.com/cell/fulltext/S0092-8674(23)00165-4)
@@ -11,3 +13,4 @@
 - [4] [How much protein should you eat? Muscle growth vs. IGF-1 longevity concerns | Rhonda Patrick (2019)](https://www.youtube.com/watch?v=yC-ej7HbPWg&t=221s)
 - [5] [The IGF-1 Trade-Off: Performance vs. Longevity (2013)](https://www.youtube.com/watch?v=AjSl4n_KdOY)
 - [6] [Protein Intake & IGF-1 Production (2012)](https://www.youtube.com/watch?v=hcIkhffzrkk)
+- [7] [Dr David Sinclair Protein Speeds Up Aging - My Reaction and Analysis (2022)](https://www.youtube.com/watch?v=PlqO78mQGBw)
