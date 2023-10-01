@@ -26,3 +26,4 @@ Retinol is a retinoid
 - [13] [REVISION of the scientific Opinion (SCCS/1576/16) on vitamin A (Retinol, Retinyl Acetate, Retinyl Palmitate) - Scientific Committee on Consumer Safety - European Commission (2022)](https://health.ec.europa.eu/system/files/2022-10/sccs_o_261.pdf)
 - [14] [OPINION ON Vitamin A - Scientific Committee on Consumer Safety - European Commission (2016)](https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_199.pdf)
 - [15] [Topical Retinoids: Another Piece for the Retinoid-Cigarette-Lung Cancer Puzzle? (2006)](https://www.jto.org/article/S1556-0864(15)30391-9/fulltext)
+- [16] [[Research] Does retinol age the skin faster? - Reddit (2016)](https://www.reddit.com/r/SkincareAddiction/comments/5u4wr2/research_does_retinol_age_the_skin_faster/)

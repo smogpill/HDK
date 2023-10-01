@@ -14,3 +14,4 @@
 - [5] [The IGF-1 Trade-Off: Performance vs. Longevity (2013)](https://www.youtube.com/watch?v=AjSl4n_KdOY)
 - [6] [Protein Intake & IGF-1 Production (2012)](https://www.youtube.com/watch?v=hcIkhffzrkk)
 - [7] [Dr David Sinclair Protein Speeds Up Aging - My Reaction and Analysis (2022)](https://www.youtube.com/watch?v=PlqO78mQGBw)
+- [8] [Protein and Aging: This Mistake Is Aging You Faster (2023)](https://www.youtube.com/watch?v=2WDm0mHOz5c)
