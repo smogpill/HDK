@@ -21,3 +21,4 @@ Also known as Collagen Peptides
 - [7] [New Study Shows Collagen Doesn’t Work? Controversial! - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=TAUVIa9Y9mM)
 - [8] [David Sinclair on COLLAGEN for YOUNG Looking Skin | Longevity Analysis By Rimon (2022)](https://www.youtube.com/watch?v=9Q3rnFpQWpE)
 - [9] [Do Collagen Supplements Work? | 5 HUGE Mistakes When Taking Collagen - Dr. Arsalan Aspires (2023)](https://www.youtube.com/watch?v=WIKgaNqFJE0)
+- [10] [Supplements I don't take: collagen (2023)](https://www.youtube.com/watch?v=pHpz7mP01yg)

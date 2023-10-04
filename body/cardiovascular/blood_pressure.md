@@ -15,3 +15,4 @@
 - [9] [A multi-trial, retrospective analysis of the antihypertensive effects of highresistance, low-volume inspiratory muscle strength training (2022)](https://www.powerbreathe.com/wp-content/uploads/2022/12/japplphysiol.00425.2022-1.pdf)
 - [10] [Can Arterial Plaque Be Reversed? - Dr. Barry Sears (2023)](https://www.youtube.com/watch?v=03KZyXGyqqw)
 - [11] [Nutraceuticals with a clinically detectable blood pressure‐lowering effect: a review of available randomized clinical trials and their meta‐analyses (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338151/)
+- [12] [THE Best Exercise for Lowering Blood Pressure (2023)](https://www.youtube.com/watch?v=sQCzXdckXPs)
