@@ -1,0 +1,2 @@
+# References
+- [1] [Effects of iron homeostasis on epigenetic age acceleration: a two-sample Mendelian randomization study (2023)](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-023-01575-w) [twitter/davidasinclair](https://x.com/davidasinclair/status/1711361740686885039?s=20)
