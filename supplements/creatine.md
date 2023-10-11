@@ -50,3 +50,4 @@
 - [25] [Creatine supplementation and health variables: a retrospective study (2001)](https://pubmed.ncbi.nlm.nih.gov/11224803/)
 - [26] [Effects of High-Dose Creatine Supplementation on Kidney and Liver Responses In Sedentary and Exercised Rats (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761536/)
 - [27] [Creatine consumption and liver disease manifestations in individuals aged 12 years and over (2022)](https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.3151)
+- [28] [Creatine as a therapeutic target in Alzheimer's disease (2023)](https://www.sciencedirect.com/science/article/pii/S2475299123265956)
