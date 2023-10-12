@@ -6,3 +6,4 @@ Caloric restriction seems to have the most important impact, rather than intermi
 - [3] [Mechanisms of Lifespan Regulation by Calorie Restriction and Intermittent Fasting in Model Organisms (2020)](https://www.mdpi.com/2072-6643/12/4/1194)
 - [4] [Intermittent Fasting for Fatty Liver | New clinical trial - Nutrition Made Simple! (2023)](https://www.youtube.com/watch?v=69P-wjqMZkQ)
 - [5] [Protein and Aging: This Mistake Is Aging You Faster (2023)](https://www.youtube.com/watch?v=2WDm0mHOz5c)
+- [6] [How to Increase Autophagy Without Fasting (2023)](https://www.youtube.com/watch?v=xzfREQPUM8E)

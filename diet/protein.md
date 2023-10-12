@@ -15,3 +15,4 @@
 - [6] [Protein Intake & IGF-1 Production (2012)](https://www.youtube.com/watch?v=hcIkhffzrkk)
 - [7] [Dr David Sinclair Protein Speeds Up Aging - My Reaction and Analysis (2022)](https://www.youtube.com/watch?v=PlqO78mQGBw)
 - [8] [Protein and Aging: This Mistake Is Aging You Faster (2023)](https://www.youtube.com/watch?v=2WDm0mHOz5c)
+- [9] [Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies (2020)](https://www.bmj.com/content/370/bmj.m2412)
