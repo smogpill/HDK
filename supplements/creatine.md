@@ -6,7 +6,7 @@
 - Decreasese uric acid. [17]
 - No evidence of baldness inducing [17]
 - No evidence of impact on DHT [17]
-- No evidence on kidneys dysfunction [17]
+- No evidence on kidneys dysfunction [17][29]
 - No evidence of muscle cramping [17]
 - No evidence of dehydration [17]
 - Seems safe regarding liver but still unclear [27] (see [26] for counterpoint)
@@ -51,3 +51,4 @@
 - [26] [Effects of High-Dose Creatine Supplementation on Kidney and Liver Responses In Sedentary and Exercised Rats (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3761536/)
 - [27] [Creatine consumption and liver disease manifestations in individuals aged 12 years and over (2022)](https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.3151)
 - [28] [Creatine as a therapeutic target in Alzheimer's disease (2023)](https://www.sciencedirect.com/science/article/pii/S2475299123265956)
+- [29] [LA CREATINE DÉTRUIT-ELLE LES REINS ? (créatininémie et insuffisance rénale) (2021)](https://www.youtube.com/watch?v=ocg4ldzW170)
