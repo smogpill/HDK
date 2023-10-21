@@ -2,6 +2,8 @@
 - Might be linked to insulin resistance [1]
 - Medication better taken at night [2][3]
 - Drinking water seems to decrease systolic but not diastolic [8]
+- Some probiotics could lower pressure [13]
+- Isometric exercises seem surprisingly great at reducing diastolic [12]
 
 # References
 - [1] [Treat High Blood Pressure's Root Cause by having a Complete Cardiac Examination = Pradip Jamnadas (2021)](https://www.youtube.com/watch?v=yaf1swrS1_c)
@@ -16,3 +18,4 @@
 - [10] [Can Arterial Plaque Be Reversed? - Dr. Barry Sears (2023)](https://www.youtube.com/watch?v=03KZyXGyqqw)
 - [11] [Nutraceuticals with a clinically detectable blood pressure‐lowering effect: a review of available randomized clinical trials and their meta‐analyses (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338151/)
 - [12] [THE Best Exercise for Lowering Blood Pressure (2023)](https://www.youtube.com/watch?v=sQCzXdckXPs)
+- [13] [Two Probiotics Identified as Promising Hypertension Treatments (2023)](https://asm.org/Press-Releases/2023/October/Two-Probiotics-Identified-as-Promising-Hypertensio)
