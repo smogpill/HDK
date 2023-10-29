@@ -1,3 +1,6 @@
+# Cons
+- Potential concerns about hair loss due to increased testosterone. Have to be confirmed though.
+
 # Posology
 - 300-600 mg
 - 1 week on/1 wee off [2]
