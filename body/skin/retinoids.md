@@ -8,6 +8,7 @@ Retinol is a retinoid
 
 - Seems to be unsure if it does not age the skin long term [2][3][4]
 - Can damage glands leading to dry eyes [5][6]
+- Not to be applied on the same day as AHA (source is Dr Brad Standfield's discord).
 
 # References
 
@@ -27,3 +28,4 @@ Retinol is a retinoid
 - [14] [OPINION ON Vitamin A - Scientific Committee on Consumer Safety - European Commission (2016)](https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_199.pdf)
 - [15] [Topical Retinoids: Another Piece for the Retinoid-Cigarette-Lung Cancer Puzzle? (2006)](https://www.jto.org/article/S1556-0864(15)30391-9/fulltext)
 - [16] [[Research] Does retinol age the skin faster? - Reddit (2016)](https://www.reddit.com/r/SkincareAddiction/comments/5u4wr2/research_does_retinol_age_the_skin_faster/)
+- [17] [Miracle Skincare Product: Everything YOU Need To Know About Retinol! - Doctor Gary Linkov (2023)](https://www.youtube.com/watch?v=hI95SKsy-zc)
