@@ -9,3 +9,4 @@
 - [8] [Effect of garlic on cardiovascular disorders: a review (2002)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139960/)
 - [9] [The effect of aged garlic extract on the atherosclerotic process – a randomized double-blind placebo-controlled trial (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7191741/)
 - [10] [The Best MEAL to Clear Out Your Arteries](https://www.youtube.com/watch?v=lk4jofz5PC0)
+- [11] [This Exercise shrinks PLAQUE in your arteries (!) | New trial (2023)](https://www.youtube.com/watch?v=ucCIS0DxXOg)
