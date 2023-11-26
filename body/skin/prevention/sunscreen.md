@@ -20,3 +20,5 @@
 - [3] [Choosing a Safe Sunscreen | Dr. Tod Cooperman of ConsumerLab.com (2023)](https://www.youtube.com/watch?v=LylPDukn6NU)
 - [4] [Octocrylène cancérigène : dans quelles crèmes solaires ? (2023)](https://sante.journaldesfemmes.fr/quotidien/2701127-creme-solaire-sans-octocrylene-cancerigene/)
 - [5] [Benzophenone Accumulates over Time from the Degradation of Octocrylene in Commercial Sunscreen Products (2021)](https://pubs.acs.org/doi/10.1021/acs.chemrestox.0c00461)
+- [6] [Valisure Detects Benzene in Sunscreen (2021)](https://www.valisure.com/valisure-newsroom/valisure-detects-benzene-in-sunscreen)
+- [7] [Valisure's list of products with no benzene][https://assets-global.website-files.com/6215052733f8bb8fea016220/627293d2966d76b9317a42c9_FDA-2021-P-0497-0003_content.pdf]
