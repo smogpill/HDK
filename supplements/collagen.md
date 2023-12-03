@@ -22,3 +22,4 @@ Also known as Collagen Peptides
 - [8] [David Sinclair on COLLAGEN for YOUNG Looking Skin | Longevity Analysis By Rimon (2022)](https://www.youtube.com/watch?v=9Q3rnFpQWpE)
 - [9] [Do Collagen Supplements Work? | 5 HUGE Mistakes When Taking Collagen - Dr. Arsalan Aspires (2023)](https://www.youtube.com/watch?v=WIKgaNqFJE0)
 - [10] [Supplements I don't take: collagen (2023)](https://www.youtube.com/watch?v=pHpz7mP01yg)
+- [11] [New Study: You Need to MEGADOSE Collagen to Get Benefits (2023)](https://www.youtube.com/watch?v=g8FxUjIXoW8)
