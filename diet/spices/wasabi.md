@@ -1,0 +1,3 @@
+# References
+- [1] [Wasabi, beloved on sushi, linked to "really substantial" boost in memory, Japanese study finds (2023)](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/)
+- [2] [Benefits of Wasabi Supplements with 6-MSITC (6-Methylsulfinyl Hexyl Isothiocyanate) on Memory Functioning in Healthy Adults Aged 60 Years and Older: Evidence from a Double-Blinded Randomized Controlled Trial (2023)](https://www.mdpi.com/2072-6643/15/21/4608)

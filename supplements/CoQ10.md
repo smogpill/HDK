@@ -1,0 +1,3 @@
+# References
+- [1] [Still reduced cardiovascular mortality 12 years after supplementation with selenium and coenzyme Q10 for four years: A validation of previous 10-year follow-up results of a prospective randomized double-blind placebo-controlled trial in elderly (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894963/)
+- [2] [Selenium and Coenzyme Q10 Intervention Prevents Telomere Attrition, with Association to Reduced Cardiovascular Mortality—Sub-Study of a Randomized Clinical Trial (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9412367/)

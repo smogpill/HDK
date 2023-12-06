@@ -13,6 +13,7 @@
 # Products
 - [1] [SVR Crème SPF50+, CICAVIT+](https://fr.svr.com/products/cicavit-creme-spf50?logged_in_customer_id=&lang=en). Recommended by somebody on Dr Brad Stanfield's discord.
 - [2] [GARNIER Ambre solaire - Sensitive expert FPS 50+](https://www.quechoisir.org/comparatif-ingredients-indesirables-n941/garnier-ambre-solaire-sensitive-expert-fps-50-pi1169191/) (All compound tested to be safe by UFC-Que Choisir)
+- [3] [La Roche-Posay Anthelios UVMune 400 Invisible Fluid Fragrance-Free SPF50+ 50ml](https://www.caretobeauty.com/nz/la-roche-posay-anthelios-uvmune-400-invisible-fluid-fragrance-free-spf50-50ml) (Recommended by Brad Stanfield)
 
 # References
 - [1] [When should sunscreen be applied: The balance between health benefit and adverse consequences to humans and the environment (2023)](https://pubmed.ncbi.nlm.nih.gov/37799082/)
@@ -22,3 +23,4 @@
 - [5] [Benzophenone Accumulates over Time from the Degradation of Octocrylene in Commercial Sunscreen Products (2021)](https://pubs.acs.org/doi/10.1021/acs.chemrestox.0c00461)
 - [6] [Valisure Detects Benzene in Sunscreen (2021)](https://www.valisure.com/valisure-newsroom/valisure-detects-benzene-in-sunscreen)
 - [7] [Valisure's list of products with no benzene][https://assets-global.website-files.com/6215052733f8bb8fea016220/627293d2966d76b9317a42c9_FDA-2021-P-0497-0003_content.pdf]
+- [8] [Benzene contamination in sunscreen: Not worth getting burned (2022)](https://ncceh.ca/resources/evidence-briefs/benzene-contamination-sunscreen-not-worth-getting-burned)
