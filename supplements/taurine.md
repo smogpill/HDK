@@ -3,6 +3,7 @@
 - It may help guard against obesity, high cholesterol, and high blood pressure. [8]
 - Both magnesium and taurine decrease calcium and sodium levels in the body's cells. [9]
 - They've both been shown to lower blood pressure and help prevent arrhythmias (irregular heartbeats) and blood clots. [10]
+- Might require to megadose for effects [11]
 
 # References
 - [1] [Taurine deficiency as a driver of aging (2023)](https://www.science.org/doi/10.1126/science.abn9257)
@@ -15,3 +16,4 @@
 - [8] [Beneficial Effects of Taurine on Metabolic Parameters in Animals and Humans (2022)](https://www.jomes.org/journal/view.html?doi=10.7570/jomes21088)
 - [9] [The Role of Magnesium in Hypertension and Cardiovascular Disease (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-7176.2011.00538.x)
 - [10] [Complementary vascular-protective actions of magnesium and taurine: A rationale for magnesium taurate (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0306987796900079)
+- [11] [Taurine REVERSES Aging? 7 Discoveries that Will Blow Your Mind! (2023)](https://www.youtube.com/watch?v=U6mh0_yTBnY)
