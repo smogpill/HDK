@@ -24,3 +24,4 @@
 - [6] [Valisure Detects Benzene in Sunscreen (2021)](https://www.valisure.com/valisure-newsroom/valisure-detects-benzene-in-sunscreen)
 - [7] [Valisure's list of products with no benzene][https://assets-global.website-files.com/6215052733f8bb8fea016220/627293d2966d76b9317a42c9_FDA-2021-P-0497-0003_content.pdf]
 - [8] [Benzene contamination in sunscreen: Not worth getting burned (2022)](https://ncceh.ca/resources/evidence-briefs/benzene-contamination-sunscreen-not-worth-getting-burned)
+- [9] [When is a Spot More than a Spot? Skin Lesions and Cancers (2019)](https://youtu.be/XG2kyy31AVc?si=ycSONb4226if0KXI&t=3928)
