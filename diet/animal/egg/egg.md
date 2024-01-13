@@ -1,0 +1,2 @@
+# References
+- [1] [Egg consumption and risk of coronary artery disease, potential amplification by high genetic susceptibility: a prospective cohort study (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0002916523659714)
