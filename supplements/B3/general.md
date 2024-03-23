@@ -9,3 +9,4 @@
 - [5] [Why NAD+ Declines during Aging: It’s Destroyed (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5088772/)
 - [6] [Association of Human Whole Blood NAD+ Contents With Aging (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8979162/)
 - [7] [Supplements that can DAMAGE your Liver (Avoid overuse!) (2023)](https://www.youtube.com/watch?v=sD1hApBn2SQ)
+- [8] [Popular Supplement Linked To Heart Disease (2024)](https://www.youtube.com/watch?v=0REvBPcoXO8)

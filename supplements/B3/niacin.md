@@ -14,6 +14,7 @@ It’s theoretical; there’s not a huge amount of data behind it. TMG, as I sai
 - Hepatotoxicity [1]
 - Does not improve lifespan [2]
 - Can deplete methyl pools [2] -> taking TMG might solve the issue
+- Concerns about increased mortality for high levels of vitamin B3 [6][7]
 
 # References
 - [1] [LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. (2020)](https://www.ncbi.nlm.nih.gov/books/NBK548176/#:~:text=Niacin%20can%20cause%20mild%2Dto,severe%20as%20well%20as%20fatal.)
@@ -21,3 +22,5 @@ It’s theoretical; there’s not a huge amount of data behind it. TMG, as I sai
 - [3] [Blood levels of nicotinic acid negatively correlate with hearing ability in healthy older men (2023)](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-03796-3)
 - [4] [Does Vitamin B3 (nicotinamide) help prevent skin cancer? - MoleMap (2020)](https://www.molemap.net.au/skin-cancer/vitamin-b3)
 - [5] [When is a Spot More than a Spot? Skin Lesions and Cancers (2019)](https://youtu.be/XG2kyy31AVc?si=71pFX6s5qaP1-0X_&t=3881)
+- [6] [A terminal metabolite of niacin promotes vascular inflammation and contributes to cardiovascular disease risk (2024)](https://www.nature.com/articles/s41591-023-02793-8)
+- [7] [Study suggests high levels of vitamin B3 breakdown products are linked to higher risk of mortality, heart attacks, and stroke (2024)](https://www.news-medical.net/news/20240219/Study-suggests-high-levels-of-vitamin-B3-breakdown-products-are-linked-to-higher-risk-of-mortality-heart-attacks-and-stroke.aspx)
