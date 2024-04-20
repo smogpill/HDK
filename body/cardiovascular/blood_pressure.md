@@ -19,3 +19,4 @@
 - [11] [Nutraceuticals with a clinically detectable blood pressure‐lowering effect: a review of available randomized clinical trials and their meta‐analyses (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338151/)
 - [12] [THE Best Exercise for Lowering Blood Pressure (2023)](https://www.youtube.com/watch?v=sQCzXdckXPs)
 - [13] [Two Probiotics Identified as Promising Hypertension Treatments (2023)](https://asm.org/Press-Releases/2023/October/Two-Probiotics-Identified-as-Promising-Hypertensio)
+- [14] [Recommendations for the Use of Dietary Fiber to Improve Blood Pressure Control (2024)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22575)[Article](https://newatlas.com/health-wellbeing/dietary-fiber-high-blood-pressure/)

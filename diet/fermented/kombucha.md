@@ -1,0 +1,2 @@
+# References
+- [1] [Kombucha Tea-associated microbes remodel host metabolic pathways to suppress lipid accumulation (2024)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011003)[Article](https://newatlas.com/health-wellbeing/kombucha-microbes-fat-fasting/)

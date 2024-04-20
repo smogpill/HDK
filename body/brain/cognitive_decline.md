@@ -1,3 +1,4 @@
 # References
-[1][Scientists may have discovered mechanism behind cognitive decline in aging (2023)](https://medicalxpress.com/news/2023-07-scientists-mechanism-cognitive-decline-aging.html)
-[2][Decreased nitrosylation of CaMKII causes aging-associated impairments in memory and synaptic plasticity in mice (2023)](https://www.science.org/doi/10.1126/scisignal.ade5892)
+- [1] [Scientists may have discovered mechanism behind cognitive decline in aging (2023)](https://medicalxpress.com/news/2023-07-scientists-mechanism-cognitive-decline-aging.html)
+- [2] [Decreased nitrosylation of CaMKII causes aging-associated impairments in memory and synaptic plasticity in mice (2023)](https://www.science.org/doi/10.1126/scisignal.ade5892)
+- [3] [The effects of genetic and modifiable risk factors on brain regions vulnerable to ageing and disease (2024)](https://www.nature.com/articles/s41467-024-46344-2)[article](https://www.ox.ac.uk/news/2024-03-27-risk-factors-faster-aging-brain-revealed-new-study)[reddit](https://www.reddit.com/r/science/comments/1bp7tlt/risk_factors_for_faster_aging_in_the_brain_that/)
