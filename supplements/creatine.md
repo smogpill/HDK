@@ -53,3 +53,4 @@
 - [28] [Creatine as a therapeutic target in Alzheimer's disease (2023)](https://www.sciencedirect.com/science/article/pii/S2475299123265956)
 - [29] [LA CREATINE DÉTRUIT-ELLE LES REINS ? (créatininémie et insuffisance rénale) (2021)](https://www.youtube.com/watch?v=ocg4ldzW170)
 - [30] [Creatine Scientist Explains 9 Real Dangers of Using Creatine (2023)](https://www.youtube.com/watch?v=F11nJ73fwQ4)
+- [31] [Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation (2024)](https://www.nature.com/articles/s41598-024-54249-9)

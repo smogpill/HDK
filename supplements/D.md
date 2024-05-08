@@ -9,3 +9,4 @@
 - [5] [You’re Probably Taking your Vitamin D Wrong, and it Could be Dangerous (& Ineffective) (2022)](https://www.youtube.com/watch?v=YIctSDVYchQ)
 - [6] [Vitamin K2 and D in Patients With Aortic Valve Calcification: A Randomized Double-Blinded Clinical Trial (2022)](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.121.057008)
 - [7] [Role of Magnesium in Vitamin D Activation and Function (2018)](https://www.degruyter.com/document/doi/10.7556/jaoa.2018.037/html?lang=de)
+- [8] [The World’s Most Popular Supplement Is Useless! (2024)](https://www.youtube.com/watch?v=EwNiD5-jqHA)
