@@ -17,3 +17,7 @@
 - [9] [The Role of Magnesium in Hypertension and Cardiovascular Disease (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-7176.2011.00538.x)
 - [10] [Complementary vascular-protective actions of magnesium and taurine: A rationale for magnesium taurate (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0306987796900079)
 - [11] [Taurine REVERSES Aging? 7 Discoveries that Will Blow Your Mind! (2023)](https://www.youtube.com/watch?v=U6mh0_yTBnY)
+- [12] [Taurine reduces the risk for metabolic syndrome: a systematic review and meta-analysis of randomized controlled trials. (2024)](https://read.qxmd.com/read/38755142/taurine-reduces-the-risk-for-metabolic-syndrome-a-systematic-review-and-meta-analysis-of-randomized-controlled-trials?redirected=slug)
+- [13] [Why Scientists Think Taurine Can Slow Aging (2024)](https://www.youtube.com/watch?v=XF-FnjhBVF4)
+- [14] [Raise standards for preclinical cancer research (2012)](https://www.nature.com/articles/483531a)
+- [15] [The Effects of an Oral Taurine Dose and Supplementation Period on Endurance Exercise Performance in Humans: A Meta-Analysis (2018)](https://pubmed.ncbi.nlm.nih.gov/29546641/)
