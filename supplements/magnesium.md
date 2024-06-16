@@ -23,3 +23,4 @@
 - [7] [The Role of Magnesium in Hypertension and Cardiovascular Disease (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-7176.2011.00538.x)
 - [8] [Complementary vascular-protective actions of magnesium and taurine: A rationale for magnesium taurate (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0306987796900079)
 - [9] [The One Supplement EVERYONE Should Take](https://www.youtube.com/watch?v=3HtDE-7IOHQ)
+- [10] [The BIG Magnesium MISTAKE 52% of People Are Making (2024)](https://www.youtube.com/watch?v=9X6pweXDxjg)
