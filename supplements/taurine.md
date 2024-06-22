@@ -21,3 +21,4 @@
 - [13] [Why Scientists Think Taurine Can Slow Aging (2024)](https://www.youtube.com/watch?v=XF-FnjhBVF4)
 - [14] [Raise standards for preclinical cancer research (2012)](https://www.nature.com/articles/483531a)
 - [15] [The Effects of an Oral Taurine Dose and Supplementation Period on Endurance Exercise Performance in Humans: A Meta-Analysis (2018)](https://pubmed.ncbi.nlm.nih.gov/29546641/)
+- [16] [TAURINE Longevity Benefits: Why I'm Not Taking It (2024)](https://www.youtube.com/watch?v=IrdJs1nB9jM)
