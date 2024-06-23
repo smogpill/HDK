@@ -2,6 +2,7 @@
 - "A large study in Japan that followed 18,609 men and women aged 40 to 79 (average age 53) for 19 years, found no association between coffee consumption and risk of cardiovascular death were found among those with normal blood pressure or moderately high blood pressure (140 to 159 mmHg systolic and 90 to 99 mmHg diastolic), but among people with very high blood pressure (160/100 mmHg or higher), drinking two or more cups of coffee per day was associated with double the risk of dying from heart attack, stroke, or other cardiovascular-related death compared to not drinking any coffee" [2][3]
 - "A small study in Brazil among men and women on medication to treat high blood pressure (average blood pressure of 150/75 mmHg) found that drinking caffeinated coffee (6 oz. containing 135 mg of caffeine) did not significantly raise blood pressure compared to drinking decaffeinated coffee (5 oz. containing 5 mg of caffeine) or placebo (water)" [2][4]
 - Reduced risk of colorectal cancer and all-cause mortality [7]
+- Reduced risk of cardiovascular disease mortality for sedentary people [8]
 
 # Cons
 - "Be aware that caffeinated coffee intake, particularly among light caffeine users, may increase arterial stiffness for one to two hours after intake, and the effect is increased with smoking" [2][5]
@@ -16,3 +17,4 @@
 - [5] [Acute Effect of Coffee on Central Arterial Stiffness and Hemodynamics (2020)](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2020.34.s1.09417)
 - [6] [High coffee consumption, brain volume and risk of dementia and stroke (2022)](https://pubmed.ncbi.nlm.nih.gov/34165394/)
 - [7] [Coffee consumption is associated with a reduced risk of colorectal cancer recurrence and all-cause mortality (2024)](https://onlinelibrary.wiley.com/doi/10.1002/ijc.34879) [reddit](https://www.reddit.com/r/science/comments/1blprkc/coffee_drinkers_have_much_lower_risk_of_bowel/)
+- [8] [Association of daily sitting time and coffee consumption with the risk of all-cause and cardiovascular disease mortality among US adults (2024)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-18515-9)
