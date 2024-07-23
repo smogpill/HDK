@@ -1,3 +1,4 @@
 # References
 - [1] [Coffee, Caffeine and Health - CardioGauge (2017)](https://www.youtube.com/watch?v=IwXpOhQKaUE)
 - [2] [Appraisal of the causal effect of plasma caffeine on adiposity, type 2 diabetes, and cardiovascular disease: two sample mendelian randomisation study (2023)](https://bmjmedicine.bmj.com/content/2/1/e000335) [article](https://www.sciencealert.com/caffeine-in-your-blood-may-affect-body-fat-and-diabetes-risk-study-finds)
+- [3] [Repeated caffeine intake suppresses cerebral grey matter responses to chronic sleep restriction in an A1 adenosine receptor-dependent manner: a double-blind randomized controlled study with PET-MRI](https://www.nature.com/articles/s41598-024-61421-8) [Reddit](https://www.reddit.com/r/science/comments/1e8nggj/caffeine_exacerbates_brain_changes_caused_by/)
