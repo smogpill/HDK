@@ -1,3 +1,6 @@
+# Pros
+- High omega-3 is good to prevent depression [7]
+
 # Posology
 - 1-2 capsules per day [1]
 
@@ -8,3 +11,4 @@
 - [4] [Saturated fat may interfere with creating memories in aged brain (2023)](https://news.osu.edu/saturated-fat-may-interfere-with-creating-memories-in-aged-brain/)
 - [5] [Don’t Take Omega-3 Until You See This! (2024)](https://www.youtube.com/watch?v=q71tHoHeXZo)
 - [6] [Is fish oil giving you Heart Disease?! (2024)](https://www.youtube.com/watch?v=PzunyCl4moA)
+- [7] [Omega-3 fatty acids and major depression: a Mendelian randomization study (2024)](https://www.nature.com/articles/s41398-024-02932-w)
