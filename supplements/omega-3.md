@@ -1,3 +1,10 @@
+- EPA can be converted easily to DHA by the body, but not the opposite [8]
+- DHA oxydizes faster than EPA.
+
+# Products
+- It takes a higher amount of algae oil than fish oil to reach appropriate EPA levels. [8]
+- Algae oil can oxydize very fast due to the larger amount of DHA. [8]
+
 # Pros
 - High omega-3 is good to prevent depression [7]
 
@@ -12,3 +19,4 @@
 - [5] [Don’t Take Omega-3 Until You See This! (2024)](https://www.youtube.com/watch?v=q71tHoHeXZo)
 - [6] [Is fish oil giving you Heart Disease?! (2024)](https://www.youtube.com/watch?v=PzunyCl4moA)
 - [7] [Omega-3 fatty acids and major depression: a Mendelian randomization study (2024)](https://www.nature.com/articles/s41398-024-02932-w)
+- [8] [The Walnut LIE: These Omega 3 Myths Hurt Your Health (2024)](https://www.youtube.com/watch?v=D0kF_6Y_YA8)
