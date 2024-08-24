@@ -8,6 +8,9 @@
 # Pros
 - High omega-3 is good to prevent depression [7]
 
+# Cons
+- "High" amount can cause fibrillation. Though the "high" bar might be quite low, exact status is still unknown [5][6][8][9]
+
 # Posology
 - 1-2 capsules per day [1]
 
@@ -20,3 +23,4 @@
 - [6] [Is fish oil giving you Heart Disease?! (2024)](https://www.youtube.com/watch?v=PzunyCl4moA)
 - [7] [Omega-3 fatty acids and major depression: a Mendelian randomization study (2024)](https://www.nature.com/articles/s41398-024-02932-w)
 - [8] [The Walnut LIE: These Omega 3 Myths Hurt Your Health (2024)](https://www.youtube.com/watch?v=D0kF_6Y_YA8)
+- [9] [Why Omega-3 Supplements cause Heart Problems (unless you pay attention to THIS) (2024)](https://www.youtube.com/watch?v=XW_NHDnTDII)
