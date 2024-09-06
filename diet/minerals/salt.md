@@ -1,0 +1,2 @@
+- [1] [Blood Pressure Effects of Sodium Reduction (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8055199/)]
+- [2] [Effect of Salt Substitution on Cardiovascular Events and Death (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa2105675)

@@ -5,6 +5,9 @@
 - Some probiotics could lower pressure [13]
 - Isometric exercises seem surprisingly great at reducing diastolic [12]
 
+# Target
+- Target should be 120/80 or lower instead of 140/90 [17][18]
+
 # Diet/supplements
 
 ## Good
@@ -66,3 +69,10 @@
 - [14] [Recommendations for the Use of Dietary Fiber to Improve Blood Pressure Control (2024)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.123.22575)[Article](https://newatlas.com/health-wellbeing/dietary-fiber-high-blood-pressure/)
 - [15] [Which supplements can help to lower blood pressure? (2013)](https://www.consumerlab.com/answers/which-supplements-can-help-lower-blood-pressure/supplements-high-blood-pressure/)
 - [16] [I take lisinopril (Zestril), an ACE inhibitor drug to lower blood pressure. Are there supplements I should avoid, or be taking, due to this drug? (2024)](https://www.consumerlab.com/answers/which-supplements-should-be-avoided-when-taking-ace-inhibitors/ace-ihibitor-interactions/)
+- [17] [Your ‘Healthy’ Blood Pressure is Killing You (2024)](https://www.youtube.com/watch?v=ap6RAcnnKPg)]
+- [18] [Final Report of a Trial of Intensive versus Standard Blood-Pressure Control (2021)](https://www.nejm.org/doi/10.1056/NEJMoa1901281)
+- [19] [Lowering systolic blood pressure to less than 120 mm Hg versus less than 140 mm Hg in patients with high cardiovascular risk with and without diabetes or previous stroke: an open-label, blinded-outcome, randomised trial (2024)](https://pubmed.ncbi.nlm.nih.gov/38945140/)
+- [20] [Blood Pressure Effects of Sodium Reduction (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8055199/)
+- [21] [Effect of Salt Substitution on Cardiovascular Events and Death (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa2105675)
+- [22] [Overweight, obesity, and weight reduction in hypertension (2024)](https://www.uptodate.com/contents/overweight-obesity-and-weight-reduction-in-hypertension)
+- [23] [Millions of US adults may be getting wrong blood pressure reads at home (2024)](https://newatlas.com/medical/blood-pressure-cuff-device/)[reddit](https://www.reddit.com/r/science/comments/1fad8j8/millions_of_us_adults_may_be_getting_wrong_blood/)
