@@ -24,3 +24,4 @@
 - [7] [Omega-3 fatty acids and major depression: a Mendelian randomization study (2024)](https://www.nature.com/articles/s41398-024-02932-w)
 - [8] [The Walnut LIE: These Omega 3 Myths Hurt Your Health (2024)](https://www.youtube.com/watch?v=D0kF_6Y_YA8)
 - [9] [Why Omega-3 Supplements cause Heart Problems (unless you pay attention to THIS) (2024)](https://www.youtube.com/watch?v=XW_NHDnTDII)
+- [10] [Omega-3 Deficiency: This is the Best Way to Find out if You are (and How to Fix it) (2024)](https://www.youtube.com/watch?v=0r9J1BxnGfA)
