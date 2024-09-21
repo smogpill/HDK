@@ -10,6 +10,7 @@
 
 # Cons
 - "High" amount can cause fibrillation. Though the "high" bar might be quite low, exact status is still unknown [5][6][8][9]
+- Seems to require B vitamins for omega 3 to be able to help the brain [11]
 
 # Posology
 - 1-2 capsules per day [1]
@@ -25,3 +26,4 @@
 - [8] [The Walnut LIE: These Omega 3 Myths Hurt Your Health (2024)](https://www.youtube.com/watch?v=D0kF_6Y_YA8)
 - [9] [Why Omega-3 Supplements cause Heart Problems (unless you pay attention to THIS) (2024)](https://www.youtube.com/watch?v=XW_NHDnTDII)
 - [10] [Omega-3 Deficiency: This is the Best Way to Find out if You are (and How to Fix it) (2024)](https://www.youtube.com/watch?v=0r9J1BxnGfA)
+- [11] [Your Brain on Omega-3, a Tantalizing Discovery! (2024)](https://www.youtube.com/watch?v=Yg77_SrN6rw)
