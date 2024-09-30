@@ -21,6 +21,7 @@
 
 # Posology
 - 5g per day [17]
+- Beta-alanine can improve creatine [39]
 
 # References
 - [1] [Why EVERYONE Should Use Creatine Supplements - Dr Brad Stanfield (2022)](https://www.youtube.com/watch?v=lPyOw5-WFho)
@@ -61,3 +62,4 @@
 - [36] [Three weeks of creatine monohydrate supplementation affects dihydrotestosterone to testosterone ratio in college-aged rugby players (2009)](https://pubmed.ncbi.nlm.nih.gov/19741313/)
 - [37] [Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show? (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7871530/)
 - [38] [Testosterone physiology in resistance exercise and training: the up-stream regulatory elements (2010)](https://pubmed.ncbi.nlm.nih.gov/21058750/)
+- [39] [This Muscle Supplement Supercharges Creatine’s Effectiveness (2024)](https://www.youtube.com/watch?v=yEwMiPv396I)

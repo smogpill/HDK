@@ -8,3 +8,4 @@
 - [1] [Using Light (Sunlight, Blue Light & Red Light) to Optimize Health | Huberman Lab Podcast #68 (2022)](https://www.youtube.com/watch?v=UF0nqolsNZc)
 - [2] [Red Light: Skincare MIRACLE or Myth? (Dermatologist) (2023)](https://www.youtube.com/watch?v=4L2cCOmdg7A)
 - [3] [DERMATOLOGIST REVIEWS LED MASKS (2021)](https://www.youtube.com/watch?v=VJeiG8r6CyM)
+- [4] [Role of Low-Level Light Therapy (LLLT) in Androgenetic Alopecia (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8906269/)
