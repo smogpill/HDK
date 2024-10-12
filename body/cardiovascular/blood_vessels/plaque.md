@@ -12,3 +12,4 @@
 - [11] [This Exercise shrinks PLAQUE in your arteries (!) | New trial (2023)](https://www.youtube.com/watch?v=ucCIS0DxXOg)
 - [12] [Can This LDL Drug Reverse Plaque? (LIVE) (2024)](https://www.youtube.com/watch?v=HPPYFx3JSgg)
 - [13] [4 Factors that Clear Plaque in your Arteries (2024)](https://www.youtube.com/watch?v=XDPgJcVXeNc)
+- [14] [Myth Busting: Can Foods Help You Unclog Your Arteries? (2024)](https://drstanfield.com/blogs/articles/foods-help-unclog-arteries)

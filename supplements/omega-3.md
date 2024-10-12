@@ -27,3 +27,4 @@
 - [9] [Why Omega-3 Supplements cause Heart Problems (unless you pay attention to THIS) (2024)](https://www.youtube.com/watch?v=XW_NHDnTDII)
 - [10] [Omega-3 Deficiency: This is the Best Way to Find out if You are (and How to Fix it) (2024)](https://www.youtube.com/watch?v=0r9J1BxnGfA)
 - [11] [Your Brain on Omega-3, a Tantalizing Discovery! (2024)](https://www.youtube.com/watch?v=Yg77_SrN6rw)
+- [12] [Association Between Omega‐3 Fatty Acid Intake and Dyslipidemia: A Continuous Dose–Response Meta‐Analysis of Randomized Controlled Trials (2023)](https://www.ahajournals.org/doi/10.1161/JAHA.123.029512)
