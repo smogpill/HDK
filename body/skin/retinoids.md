@@ -29,3 +29,6 @@ Retinol is a retinoid
 - [15] [Topical Retinoids: Another Piece for the Retinoid-Cigarette-Lung Cancer Puzzle? (2006)](https://www.jto.org/article/S1556-0864(15)30391-9/fulltext)
 - [16] [[Research] Does retinol age the skin faster? - Reddit (2016)](https://www.reddit.com/r/SkincareAddiction/comments/5u4wr2/research_does_retinol_age_the_skin_faster/)
 - [17] [Miracle Skincare Product: Everything YOU Need To Know About Retinol! - Doctor Gary Linkov (2023)](https://www.youtube.com/watch?v=hI95SKsy-zc)
+- [18] [Improvement of naturally aged skin with vitamin A (retinol) (2007)](https://pubmed.ncbi.nlm.nih.gov/17515510/)
+- [19] [Topical retinoids](https://dermnetnz.org/topics/topical-retinoids)
+- [20] [Comparable efficacy of adapalene 0.3% gel and tretinoin 0.05% cream as treatment for cutaneous photoaging (2018)](https://pubmed.ncbi.nlm.nih.gov/30105991/)

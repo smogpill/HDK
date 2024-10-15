@@ -1,6 +1,9 @@
 
 # Safe compounds
+- Bemotrizinol is chemical, but large. It has been used for very long in Europe [10] It seems like the best choice at the moment.
 - "Sodium benzoate is added to skincare products (as well as food) to extend the shelf life of products. It does not carry the risks of benzene -- although benzene is part of its molecular structure. We are not aware of safety concerns associated with sodium benzoate in sunscreens." [2]
+
+# Undefined safety compounds
 
 # Dangerous compounds
 - Octocrylene can transform into Benzophenone with time [2][4][5]
@@ -25,3 +28,15 @@
 - [7] [Valisure's list of products with no benzene][https://assets-global.website-files.com/6215052733f8bb8fea016220/627293d2966d76b9317a42c9_FDA-2021-P-0497-0003_content.pdf]
 - [8] [Benzene contamination in sunscreen: Not worth getting burned (2022)](https://ncceh.ca/resources/evidence-briefs/benzene-contamination-sunscreen-not-worth-getting-burned)
 - [9] [When is a Spot More than a Spot? Skin Lesions and Cancers (2019)](https://youtu.be/XG2kyy31AVc?si=ycSONb4226if0KXI&t=3928)
+- [10] [The World's #1 Anti-Wrinkle Cream Is Ridiculously Cheap (2024)](https://www.youtube.com/watch?v=RZwvaP5--gA)
+- [11] [Ageing research: rethinking primary prevention of skin cancer (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/jdv.17660)
+- [12] [Images in clinical medicine. Unilateral dermatoheliosis (2012)](https://pubmed.ncbi.nlm.nih.gov/22512500/)
+- [13] [Facial Appearance Reflects Human Familial Longevity and Cardiovascular Disease Risk in Healthy Individuals (2013)](https://academic.oup.com/biomedgerontology/article-abstract/68/2/145/544529)
+- [14] [Sunscreen and prevention of skin aging: a randomized trial (2013)](https://pubmed.ncbi.nlm.nih.gov/23732711/)
+- [15] [Daily Use of a Facial Broad Spectrum Sunscreen Over One-Year Significantly Improves Clinical Evaluation of Photoaging (2016)](https://pubmed.ncbi.nlm.nih.gov/27749441/)
+- [16] [Effect of Sunscreen Application on Plasma Concentration of Sunscreen Active Ingredients (2020)](https://jamanetwork.com/journals/jama/fullarticle/2759002)
+- [17] [American Academy of Dermatology Association - Stats sunscreen](https://www.aad.org/media/stats-sunscreen)
+- [18] [The Banned Sunscreen Ingredients and Their Impact on Human Health: A Systematic Review (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648445/)
+- [19] [Allergy to bemotrizinol (2012)](https://dermnetnz.org/topics/allergy-to-bemotrizinol)
+- [20] [Why the U.S. is behind on sunscreen (2024)](https://eu.usatoday.com/story/news/health/2024/05/17/fda-behind-sunscreen-skin-cancer/73672619007/)
+- [21] [The 24-hr, 28-day, and 7-day post-moisturizing efficacy of ceramides 1, 3, 6-II containing moisturizing cream compared with hydrophilic cream on skin dryness and barrier disruption in senile xerosis treatment (2019)](https://pubmed.ncbi.nlm.nih.gov/31585489/)
