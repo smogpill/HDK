@@ -6,7 +6,7 @@
 - Decreasese uric acid. [17]
 - No evidence of baldness inducing [17]
 - No evidence of impact on DHT [17]
-- No evidence on kidneys dysfunction [17][29]
+- No evidence on kidneys dysfunction [17][29][35]
 - No evidence of muscle cramping [17]
 - No evidence of dehydration [17]
 - Seems safe regarding liver but still unclear [27] (see [26] for counterpoint)

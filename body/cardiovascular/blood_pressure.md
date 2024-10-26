@@ -6,7 +6,7 @@
 - Isometric exercises seem surprisingly great at reducing diastolic [12]
 
 # Target
-- Target should be 120/80 or lower instead of 140/90 [17][18]
+- Target should be 120/80 or lower instead of 140/90 [17][18][24]
 
 # Diet/supplements
 
@@ -76,3 +76,4 @@
 - [21] [Effect of Salt Substitution on Cardiovascular Events and Death (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa2105675)
 - [22] [Overweight, obesity, and weight reduction in hypertension (2024)](https://www.uptodate.com/contents/overweight-obesity-and-weight-reduction-in-hypertension)
 - [23] [Millions of US adults may be getting wrong blood pressure reads at home (2024)](https://newatlas.com/medical/blood-pressure-cuff-device/)[reddit](https://www.reddit.com/r/science/comments/1fad8j8/millions_of_us_adults_may_be_getting_wrong_blood/)
+- [24] [Your ‘Healthy’ Blood Pressure is Killing You](https://www.youtube.com/watch?v=ap6RAcnnKPg)
