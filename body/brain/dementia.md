@@ -5,3 +5,4 @@
 - [2] [Modulating heart rate oscillation affects plasma amyloid beta and tau levels in younger and older adults (2023)](https://www.nature.com/articles/s41598-023-30167-0)
 - [3] [Genital herpes linked to accelerated brain shrinkage](https://www.reddit.com/r/science/comments/17xlnpl/genital_herpes_linked_to_accelerated_brain/)
 - [4] [BREAKING! Reduce Your Dementia Risk By 45% (2024)](https://www.youtube.com/watch?v=JpAeC5TKQmU)
+- [5] [THIS Is The Fastest Way To Get Dementia… | The Brain Doctor, Dr Ann Mckee (2024)](https://www.youtube.com/watch?v=aOW_HslF5ko)
