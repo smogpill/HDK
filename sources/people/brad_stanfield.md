@@ -1,3 +1,13 @@
+# Pros
+- Sticks to science
+- Admits some failures
+- Reasonable takes
+- Use some of the money to organize studies
+
+# Cons
+- Sells supplements
+- Heavy on self branding
+
 # Links
 [Youtube](https://www.youtube.com/@DrBradStanfield)
 
