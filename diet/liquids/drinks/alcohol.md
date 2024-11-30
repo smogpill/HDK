@@ -1,0 +1,2 @@
+# References
+- [1] [Alcohol consumption confers lasting impacts on prefrontal cortical neuron intrinsic excitability and spontaneous neurotransmitter signaling in the aging brain in mice (2025)](https://www.sciencedirect.com/science/article/pii/S0197458024001726)[Article](https://newatlas.com/brain/alzheimers-dementia/early-adult-binge-drinking-brain/)
