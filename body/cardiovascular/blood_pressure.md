@@ -77,3 +77,4 @@
 - [22] [Overweight, obesity, and weight reduction in hypertension (2024)](https://www.uptodate.com/contents/overweight-obesity-and-weight-reduction-in-hypertension)
 - [23] [Millions of US adults may be getting wrong blood pressure reads at home (2024)](https://newatlas.com/medical/blood-pressure-cuff-device/)[reddit](https://www.reddit.com/r/science/comments/1fad8j8/millions_of_us_adults_may_be_getting_wrong_blood/)
 - [24] [Your ‘Healthy’ Blood Pressure is Killing You](https://www.youtube.com/watch?v=ap6RAcnnKPg)
+- [25] [The #1 Nutrient Deficiency in High Blood Pressure (2024)](https://www.youtube.com/watch?v=_Nn20bBtHwI)
