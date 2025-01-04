@@ -1,10 +1,12 @@
+- Plant-based proteins are better than animal-based proteins regarding longevity [11][12]
+
 # Pros
 - The gut can generate CCHa1 when eating a protein-rich diet which helps deep sleep [1]
 
 # Cons
 - Hyperprotein diet can damage kidneys if there is ground for kidney problems (hypertension, various kidney diseases, etc.)[2]
-- Activates mTORC1 [7]
-- Proteins might be healthspan vs lifespan. More proteins = healthspan, less proteins = lifespan [5][6][7]
+- Activates mTORC1 [7][12]
+- Proteins might be healthspan vs lifespan. More proteins = healthspan, less proteins = lifespan [5][6][7][12]
 
 # References
 - [1] [A gut-secreted peptide suppresses arousability from sleep (2023)](https://www.cell.com/cell/fulltext/S0092-8674(23)00165-4)
@@ -17,3 +19,5 @@
 - [8] [Protein and Aging: This Mistake Is Aging You Faster (2023)](https://www.youtube.com/watch?v=2WDm0mHOz5c)
 - [9] [Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies (2020)](https://www.bmj.com/content/370/bmj.m2412)
 - [10] [Get Protein Right, Avoid Dying 6.4 Years Too Early (2024)](https://www.youtube.com/watch?v=IA0FSjfdACY)
+- [11] [Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/)
+- [12] [The Most Potent Anti-Death Foods (2024)](https://www.youtube.com/watch?v=T6s6-NsgfKI)
