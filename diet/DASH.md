@@ -1,0 +1,2 @@
+# References
+- [1] [Neuroprotective Dietary Patterns and Longitudinal Changes in Cognitive Function in Older Adults][https://www.jandonline.org/article/S2212-2672(24)00870-0/abstract][Article][https://www.psypost.org/mediterranean-and-dash-diets-linked-to-slower-cognitive-decline-in-older-adults/]

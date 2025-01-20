@@ -23,3 +23,5 @@
 - [22] [Mediterranean Diet Reduces Atherosclerosis Progression in Coronary Heart Disease: An Analysis of the CORDIOPREV Randomized Controlled Trial (2021)](https://www.ahajournals.org/doi/10.1161/STROKEAHA.120.033214)
 - [23] [Effects of Vitamin K2 and D Supplementation on Coronary Artery Disease in Men: A RCT (2023)](https://www.jacc.org/doi/10.1016/j.jacadv.2023.100643)
 - [24] [Final Report of a Trial of Intensive versus Standard Blood-Pressure Control (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa1901281)
+- [25] [This Exercise Clears Plaque in Your Arteries! New Trial (2024)](https://www.youtube.com/watch?v=LLAOc5OIBQ4)
+- [26] [Best Diet to UNCLOG Your Arteries (2024)](https://www.youtube.com/watch?v=h3V3AnVf_w8)
