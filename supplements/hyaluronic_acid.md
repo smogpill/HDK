@@ -23,3 +23,4 @@ Helps for wrinkles (and potentially skin health in general), though not enough s
 - [5] [Oral hyaluronan relieves wrinkles: a double-blinded, placebo-controlled study over a 12-week period (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5522662/)
 - [6] [Longevity Supplements That *Actually* Work | July 2023 - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=_hOxXq0wi-0)
 - [7] [This Controversial Supplement ACTUALLY Reverses Wrinkles (2024)](https://www.youtube.com/watch?v=069wkXB6p40)
+- [8] [Hyaluronic acid: A key molecule in skin aging (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3583886/)

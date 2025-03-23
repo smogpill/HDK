@@ -51,6 +51,7 @@
 - "Use arginine cautiously if taking lisinopril." [16]
 - "Green tea extract has been shown to significantly reduce the absorption of lisinopril, which might reduce its blood pressure-lowering effects. It is unclear if green tea has this effect, or if green tea or green tea extract affects the absorption of other ACE inhibitors, but to be on the safe side, it seems best to take green tea or green tea extract and lisinopril at different times of day." [16]
 - "Be aware that lisinopril and other ACE inhibitors may deplete zinc levels in the body and increase the risk of zinc deficiency" [16]
+- More drugs against HBP could cause kidney damage (either kidney specific drugs, but maybe even with multi-drugs) [45]
 
 # References
 - [1] [Treat High Blood Pressure's Root Cause by having a Complete Cardiac Examination = Pradip Jamnadas (2021)](https://www.youtube.com/watch?v=yaf1swrS1_c)
@@ -97,3 +98,4 @@
 - [42] [Prehypertension in midlife is associated with worse cognition a decade later in middle-aged and older women (2015)](https://pubmed.ncbi.nlm.nih.gov/25814553/)
 - [43] [Blood Pressure Effects of Sodium Reduction (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8055199/)
 - [44] [Nonpharmacologic Interventions for Reducing Blood Pressure in Adults With Prehypertension to Established Hypertension (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7792371/)
+- [45] [This Study Proved Everything we knew about High Blood Pressure was Wrong (2025)](https://www.youtube.com/watch?v=34cMamNp2Uo)

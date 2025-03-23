@@ -25,3 +25,4 @@
 - [17] [ONE Supplement SLASHES Risk of Death by Over 80%? (2024)](https://www.youtube.com/watch?v=hIwS2eB88YE)
 - [18] [Taurine: A Savior against Metabolic Syndrome… or is it?](https://www.youtube.com/watch?v=JawPF4VwQg0)
 - [19] [Taurine: The Nutrient of Youth [Science Explained]](https://www.youtube.com/watch?v=qH5QumHGrgk)
+- [20] [Why Scientists Are Calling Taurine “The Youth Molecule” (2025)](https://www.youtube.com/watch?v=mdwZIFEHfu4)
