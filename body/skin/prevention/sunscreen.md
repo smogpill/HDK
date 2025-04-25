@@ -1,6 +1,7 @@
 
 # Safe compounds
-- Bemotrizinol is chemical, but large. It has been used for very long in Europe [10] It seems like the best choice at the moment.
+- Bemotrizinol (BEMT) is chemical, but large. It has been used for very long in Europe [10][22].
+- Same for diphenyltriazine (TriAsorB), Ethylhexyl triazone, Tris-biphenyl triazine [22].
 - "Sodium benzoate is added to skincare products (as well as food) to extend the shelf life of products. It does not carry the risks of benzene -- although benzene is part of its molecular structure. We are not aware of safety concerns associated with sodium benzoate in sunscreens." [2]
 
 # Undefined safety compounds
@@ -40,3 +41,4 @@
 - [19] [Allergy to bemotrizinol (2012)](https://dermnetnz.org/topics/allergy-to-bemotrizinol)
 - [20] [Why the U.S. is behind on sunscreen (2024)](https://eu.usatoday.com/story/news/health/2024/05/17/fda-behind-sunscreen-skin-cancer/73672619007/)
 - [21] [The 24-hr, 28-day, and 7-day post-moisturizing efficacy of ceramides 1, 3, 6-II containing moisturizing cream compared with hydrophilic cream on skin dryness and barrier disruption in senile xerosis treatment (2019)](https://pubmed.ncbi.nlm.nih.gov/31585489/)
+- [22] [The World’s #1 Anti-Aging Cream Just Got Updated (2025)](https://www.youtube.com/watch?v=oaAwzHi0Lbw)

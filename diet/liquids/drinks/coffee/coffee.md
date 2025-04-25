@@ -19,3 +19,4 @@
 - [7] [Coffee consumption is associated with a reduced risk of colorectal cancer recurrence and all-cause mortality (2024)](https://onlinelibrary.wiley.com/doi/10.1002/ijc.34879) [reddit](https://www.reddit.com/r/science/comments/1blprkc/coffee_drinkers_have_much_lower_risk_of_bowel/)
 - [8] [Association of daily sitting time and coffee consumption with the risk of all-cause and cardiovascular disease mortality among US adults (2024)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-18515-9)
 - [9] [What Just One Cup of Coffee Does to Your Liver and Body (2024)](https://www.youtube.com/watch?v=o1EIj-huCzE)
+- [10] [Cafestol and kahweol concentrations in workplace machine coffee compared with conventional brewing methods (2025)](https://www.nmcd-journal.com/article/S0939-4753(25)00087-0/fulltext)[Reddit](https://www.reddit.com/r/science/comments/1jjfwlv/boiled_coffee_in_a_pot_contains_high_levels_of/)

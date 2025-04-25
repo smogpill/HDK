@@ -1,3 +1,8 @@
+- Mediterranean diet seems optimal to reduce plaque [27]
+- Avoid sugary or too much fruits, bread, rice, etc. [29]
+- Resistance training and high intensity internval training instead of aerobic [29]
+- The legs drive the metabolism (they are the largest muscles) [29]
+
 # References
 - [1] [How I Reversed 20 years of Arterial Plaque - PrevMed Health (2017)](https://youtu.be/QOWF0KTNu2g)
 - [2] [How I Reversed My Arterial Age 20 years (Part 2): My Scores - PrevMed Health (2017)](https://www.youtube.com/watch?v=XW8Ax97XT_A)
@@ -25,3 +30,8 @@
 - [24] [Final Report of a Trial of Intensive versus Standard Blood-Pressure Control (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa1901281)
 - [25] [This Exercise Clears Plaque in Your Arteries! New Trial (2024)](https://www.youtube.com/watch?v=LLAOc5OIBQ4)
 - [26] [Best Diet to UNCLOG Your Arteries (2024)](https://www.youtube.com/watch?v=h3V3AnVf_w8)
+- [27] [The Power of the Mediterranean Diet: Reversing Atherosclerosis (2025)](https://www.youtube.com/watch?v=NUN662XH0kg)
+- [28] [Dr Esselstyn : Pas de pétrole, pas de maladie cardiaque (2025)](https://www.youtube.com/watch?v=DubbPEfdF5k)
+- [29] [I Reversed 20 years of Arterial Plaque... And GOT the Scan to PROVE IT
+ (2025)](https://www.youtube.com/watch?v=9ggQX5xj9jE)
+- [30] [Top 7 Foods That Clean Out Arteries (2024)](https://www.youtube.com/watch?v=WYK-NOPbtfA)
