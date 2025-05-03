@@ -28,9 +28,13 @@
 - "Taurine supplementation appears to lower blood pressure in people with prehypertension, but it may take about 3 months for any benefit." [15]
 - "L-Theanine may lessen blood pressure increases associated with caffeine use." [15]
 - "Getting adequate niacin from foods has been associated with a decreased risk of developing high blood pressure, although getting too much niacin from foods may increase the risk" [15]
-- "Hibiscus, taken in the form of capsules or tea, may reduce systolic blood pressure by about 7 mmHg compared to control (e.g., placebo, other teas or diet), but it does not appear to significantly lower diastolic blood pressure. Hibiscus may have the greatest benefit when taken in daily doses of more than 1 gram of dried flower and when used for more than 4 weeks, although more studies are needed to confirm (Ellis, Nutr Rev 2022). Hibiscus may lower blood pressure by a mechanism similar to ACE-inhibitors (Nwachukwu, Indian J Pharmacol 2015)." [15]
+- "Hibiscus, taken in the form of capsules or tea, may reduce systolic blood pressure by about 7 mmHg compared to control (e.g., placebo, other teas or diet), but it does not appear to significantly lower diastolic blood pressure. Hibiscus may have the greatest benefit when taken in daily doses of more than 1 gram of dried flower and when used for more than 4 weeks, although more studies are needed to confirm (Ellis, Nutr Rev 2022). Hibiscus may lower blood pressure by a mechanism similar to ACE-inhibitors (Nwachukwu, Indian J Pharmacol 2015)." [15][49]. Avoid drinking alongside an ARB treatment!
 - Breathing exercises [48] 
 - Training grip strength [48]
+- Beetroot supplements [49] (to avoid sugar from beets)
+- Blueberries [49]
+- Pomegranate extract [49] (to avoid sugar from pomegranate). Avoid drinking alongside an ARB treatment.
+- Hawthorn extract seems like a magic thing that does plenty of good [49]
 
 ## Unclear
 - "While low blood levels of vitamin D are associated with elevated blood pressure, a comprehensive review of 46 clinical trials concluded taking a vitamin D supplement was ineffective for lowering blood pressure, regardless of starting levels of vitamin D in the blood." [15]
@@ -54,6 +58,7 @@
 - "Green tea extract has been shown to significantly reduce the absorption of lisinopril, which might reduce its blood pressure-lowering effects. It is unclear if green tea has this effect, or if green tea or green tea extract affects the absorption of other ACE inhibitors, but to be on the safe side, it seems best to take green tea or green tea extract and lisinopril at different times of day." [16]
 - "Be aware that lisinopril and other ACE inhibitors may deplete zinc levels in the body and increase the risk of zinc deficiency" [16]
 - More drugs against HBP could cause kidney damage (either kidney specific drugs, but maybe even with multi-drugs) [45]
+- Avoid mixing an ACE and and ARB at the same time (for example hibiscus + garlic)
 
 # References
 - [1] [Treat High Blood Pressure's Root Cause by having a Complete Cardiac Examination = Pradip Jamnadas (2021)](https://www.youtube.com/watch?v=yaf1swrS1_c)
@@ -104,3 +109,4 @@
 - [46] [Modulation of blood pressure by dietary potassium and sodium: sex differences and modeling analysis (2025)](https://journals.physiology.org/doi/full/10.1152/ajprenal.00222.2024)[Reddit](https://www.reddit.com/r/science/comments/1jz69ah/a_study_suggests_that_increasing_the_ratio_of/)
 - [47] [Dr. Boz: ‘The Great High Blood Pressure Scam’ (2025)](https://www.youtube.com/watch?v=EWz5TecJu8Q)
 - [48] [#1 Best Way to Lower Blood Pressure Naturally and Fast (2025)](https://www.youtube.com/watch?v=lh9U2VNngII)
+- [49] [Top 5 AT HOME Remedies to Lower Blood Pressure (2025)](https://www.youtube.com/watch?v=pEGj3yjcfEg)
