@@ -63,3 +63,6 @@
 - [37] [Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show? (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7871530/)
 - [38] [Testosterone physiology in resistance exercise and training: the up-stream regulatory elements (2010)](https://pubmed.ncbi.nlm.nih.gov/21058750/)
 - [39] [This Muscle Supplement Supercharges Creatine’s Effectiveness (2024)](https://www.youtube.com/watch?v=yEwMiPv396I)
+- [40] [Does Creatine cause Hair Loss? Finally, we have an answer. (2025)](https://www.youtube.com/watch?v=XK8uW7FIEuU)
+- [41] [Creatine Expert uncovers why 5 grams isn’t Enough! (2025)](https://www.youtube.com/watch?v=aWNUCcGbK-0)
+- [42] [The effects of creatine supplementation on cognitive function in adults: a systematic review and meta-analysis (2024)](https://pubmed.ncbi.nlm.nih.gov/39070254/)

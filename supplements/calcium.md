@@ -8,3 +8,4 @@ Calcium supplements should be avoided unless absolutely necessary [1]
 # References
 - [1] [Exposing the links between Calcium, Vitamin K2, and Plaque Buildup in Blood Vessels - Pradip Jamnadas (2022)](https://www.youtube.com/watch?v=D_UJaEZe9gg)
 - [2] [Supplements That Shorten Your Lifespan - AVOID These - Siim Land (2023)](https://www.youtube.com/watch?v=oNJ33A2Z5tM)
+- [3] [This Incredibly Popular Supplement DAMAGES Your Blood Vessels (2025)](https://www.youtube.com/watch?v=INeQLAdDkEE)
