@@ -16,3 +16,4 @@
 - [12] [Lowering systolic blood pressure to less than 120 mm Hg versus less than 140 mm Hg in patients with high cardiovascular risk with and without diabetes or previous stroke: an open-label, blinded-outcome, randomised trial (2024)](https://pubmed.ncbi.nlm.nih.gov/38945140/)
 - [13] [Long-Term Effect of Intensive vs Standard Blood Pressure Control on Mild Cognitive Impairment and Probable Dementia in SPRINT (2025)](https://www.neurology.org/doi/abs/10.1212/WNL.0000000000213334)
 - [14] [Prehypertension in midlife is associated with worse cognition a decade later in middle-aged and older women (2015)](https://pubmed.ncbi.nlm.nih.gov/25814553/)
+- [15] [Scientists Just Found an EASY Way to Cut Dementia Risk By 15% (2025)](https://www.youtube.com/watch?v=vUUqRQzQls0)
