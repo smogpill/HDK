@@ -7,3 +7,4 @@
 - [5] [How to Train for Longevity (ft. KneesOverToesGuy) (2023)](https://www.youtube.com/watch?v=uUTQonEpGn8)
 - [6] [The Most Powerful Habit to Extend Life. (2024)](https://www.youtube.com/watch?v=2cJU8ffPdSM)
 - [7] [Absolute and relative intensities of solo, free-form dancing in adults: A pilot study (2024)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313144)[Article](https://news.northeastern.edu/2025/02/24/benefits-of-dancing-for-exercise/)[Reddit](https://www.reddit.com/r/science/comments/1j2nwve/dancing_can_have_the_same_benefits_as_running/)
+- [8] [Doing THIS for ONE Minute could Save your Life! (2025)](https://www.youtube.com/watch?v=w5IN0WrPEHw)

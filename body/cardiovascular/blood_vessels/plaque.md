@@ -1,7 +1,9 @@
 - Mediterranean diet seems optimal to reduce plaque [27]
 - Avoid sugary or too much fruits, bread, rice, etc. [29]
-- Resistance training and high intensity internval training instead of aerobic [29]
-- The legs drive the metabolism (they are the largest muscles) [29]
+- Resistance training and high intensity interval training instead of aerobic [29][31]
+- The legs drive the metabolism (they are the largest muscles) [29][31]
+- A lot of insulin receptors in muscles [31]
+- High intensity interval training can redrill capillaries that can reach insulin receptors [31]
 
 # References
 - [1] [How I Reversed 20 years of Arterial Plaque - PrevMed Health (2017)](https://youtu.be/QOWF0KTNu2g)
@@ -35,3 +37,4 @@
 - [29] [I Reversed 20 years of Arterial Plaque... And GOT the Scan to PROVE IT
  (2025)](https://www.youtube.com/watch?v=9ggQX5xj9jE)
 - [30] [Top 7 Foods That Clean Out Arteries (2024)](https://www.youtube.com/watch?v=WYK-NOPbtfA)
+- [31] [The Ultimate Guide for Plaque Reversal (2025)](https://www.youtube.com/watch?v=evAkd-6ytUQ)
