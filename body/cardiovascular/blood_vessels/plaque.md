@@ -38,3 +38,4 @@
  (2025)](https://www.youtube.com/watch?v=9ggQX5xj9jE)
 - [30] [Top 7 Foods That Clean Out Arteries (2024)](https://www.youtube.com/watch?v=WYK-NOPbtfA)
 - [31] [The Ultimate Guide for Plaque Reversal (2025)](https://www.youtube.com/watch?v=evAkd-6ytUQ)
+- [32] [These 5 Foods Stop Arterial Plaque (2024)](https://www.youtube.com/watch?v=YyCxAjp5W7M)
