@@ -1,3 +1,4 @@
 # References
 - [1] [A High-Tech Headband Could Detect Early Signs of Alzheimer's in Your Sleep (2023)](https://www.sciencealert.com/a-high-tech-headband-could-detect-early-signs-of-alzheimers-in-your-sleep)
 - [2] [Is the BCG Vaccine a Potential Shield Against Alzheimer’s? (2023)](https://neurosciencenews.com/alzheimers-bcg-vaccine-23284/) [paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2805030)
+- [3] [Porphyromonas gingivalis in Alzheimer’s disease brains: Evidence for disease causation and treatment with small-molecule inhibitors (2019)](https://www.science.org/doi/10.1126/sciadv.aau3333)[Article](https://www.sciencealert.com/the-cause-of-alzheimers-might-be-coming-from-within-your-mouth)
