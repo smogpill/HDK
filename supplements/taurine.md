@@ -5,6 +5,9 @@
 - They've both been shown to lower blood pressure and help prevent arrhythmias (irregular heartbeats) and blood clots. [10]
 - Might require to megadose for effects [11]
 
+# Cons
+- It was believed that taurine levels decrease with age. Though it now seems incorrect and taurine mostly vary between individuals [21]
+
 # References
 - [1] [Taurine deficiency as a driver of aging (2023)](https://www.science.org/doi/10.1126/science.abn9257)
 - [2] [New study shows taurine supplementation improves longevity and healthspan in multiple animal models (2023)](https://www.reddit.com/r/longevity/comments/144ge6d/new_study_shows_taurine_supplementation_improves/)
@@ -26,3 +29,5 @@
 - [18] [Taurine: A Savior against Metabolic Syndrome… or is it?](https://www.youtube.com/watch?v=JawPF4VwQg0)
 - [19] [Taurine: The Nutrient of Youth [Science Explained]](https://www.youtube.com/watch?v=qH5QumHGrgk)
 - [20] [Why Scientists Are Calling Taurine “The Youth Molecule” (2025)](https://www.youtube.com/watch?v=mdwZIFEHfu4)
+- [21] [Taurine.. Time to Throw it Away? Two New Studies (2025)](https://www.youtube.com/watch?v=Onkl2RDBP8c)
+- [22] [Why Everyone's Afraid of Taurine Now - New Studies (2025)](https://www.youtube.com/watch?v=0XGdrDQ-Uqw)
