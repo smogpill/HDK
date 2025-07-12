@@ -4,6 +4,8 @@
 - The legs drive the metabolism (they are the largest muscles) [29][31]
 - A lot of insulin receptors in muscles [31]
 - High intensity interval training can redrill capillaries that can reach insulin receptors [31]
+- Maybe garlic can be interesting [33]
+- Inflammation is very important, not just cholesterol [34]
 
 # References
 - [1] [How I Reversed 20 years of Arterial Plaque - PrevMed Health (2017)](https://youtu.be/QOWF0KTNu2g)
@@ -39,3 +41,5 @@
 - [30] [Top 7 Foods That Clean Out Arteries (2024)](https://www.youtube.com/watch?v=WYK-NOPbtfA)
 - [31] [The Ultimate Guide for Plaque Reversal (2025)](https://www.youtube.com/watch?v=evAkd-6ytUQ)
 - [32] [These 5 Foods Stop Arterial Plaque (2024)](https://www.youtube.com/watch?v=YyCxAjp5W7M)
+- [33] [THIS little known Natural Supplement SHRINKS Plaque | And no one’s talking about it! (2025)](https://www.youtube.com/watch?v=NUGg-s2raYw)
+- [34] [The TRUTH About Statins - What Your Doctor Isn't Telling You (2025)](https://www.youtube.com/watch?v=gvC9PG-2yhM)

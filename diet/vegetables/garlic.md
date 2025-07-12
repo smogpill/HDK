@@ -11,3 +11,4 @@
 - [7] [Potential Garlic actions](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9574545_fphar-13-954938-g005.jpg)
 - [8] [Roles and mechanisms of garlic and its extracts on atherosclerosis: A review (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9574545/)
 - [9] [Why Garlic Is a Legit Superfood - Reduce Plaque From Arteries (2024)](https://www.youtube.com/watch?v=ahjSbLyqoHU)
+- [10] [THIS little known Natural Supplement SHRINKS Plaque | And no one’s talking about it! (2025)](https://www.youtube.com/watch?v=NUGg-s2raYw)
