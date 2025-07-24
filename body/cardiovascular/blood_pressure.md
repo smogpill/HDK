@@ -23,18 +23,19 @@
 - "A low-dose of vitamin B-2 (riboflavin) may reduce systolic and diastolic blood pressure in people with a certain genetic type (MTHFR 677TT), which can predispose to high blood pressure." [15]
 - "Results from one clinical study in men and women with metabolic syndrome suggests that berberine, a compound found in plants such as barberry, Oregon grape and goldenseal, may lower systolic blood pressure." [15]
 - "Hawthorn extract made from the leaves and flowers may modestly lower blood pressure, although more studies are needed to confirm. The blood pressure-lowering effect is attributed to flavonoid constituents (including quercetin)" [15]
-- "Potassium is an important electrolyte which helps maintain blood pressure." However some high blood pressure medication can cause high potassium, so consulting with a physician is required [15][46]
+- "Potassium is an important electrolyte which helps maintain blood pressure." However some high blood pressure medication can cause high potassium, so consulting with a physician is required [15][46][51]
 - "Acetyl-L-carnitine, taken alone or with alpha-lipoic acid, may modestly lower systolic blood pressure in people with high blood pressure, but it does not seem to lower diastolic blood pressure in most people (McMackin, J Clin Hypertens 2007; Ruggenenti, Hypertension 2009; Parvanova, J Endocr Soc 2018)." [15]
 - "Taurine supplementation appears to lower blood pressure in people with prehypertension, but it may take about 3 months for any benefit." [15]
 - "L-Theanine may lessen blood pressure increases associated with caffeine use." [15]
 - "Getting adequate niacin from foods has been associated with a decreased risk of developing high blood pressure, although getting too much niacin from foods may increase the risk" [15]
-- "Hibiscus, taken in the form of capsules or tea, may reduce systolic blood pressure by about 7 mmHg compared to control (e.g., placebo, other teas or diet), but it does not appear to significantly lower diastolic blood pressure. Hibiscus may have the greatest benefit when taken in daily doses of more than 1 gram of dried flower and when used for more than 4 weeks, although more studies are needed to confirm (Ellis, Nutr Rev 2022). Hibiscus may lower blood pressure by a mechanism similar to ACE-inhibitors (Nwachukwu, Indian J Pharmacol 2015)." [15][49]. Avoid drinking alongside an ARB treatment!
+- "Hibiscus, taken in the form of capsules or tea, may reduce systolic blood pressure by about 7 mmHg compared to control (e.g., placebo, other teas or diet), but it does not appear to significantly lower diastolic blood pressure. Hibiscus may have the greatest benefit when taken in daily doses of more than 1 gram of dried flower and when used for more than 4 weeks, although more studies are needed to confirm (Ellis, Nutr Rev 2022). Hibiscus may lower blood pressure by a mechanism similar to ACE-inhibitors (Nwachukwu, Indian J Pharmacol 2015)." [15][49][51]. Avoid drinking alongside an ARB treatment!
 - Breathing exercises [48] 
 - Training grip strength [48]
-- Beetroot supplements [49] (to avoid sugar from beets)
-- Blueberries [49]
+- Beetroot supplements [49][51] (to avoid sugar from beets)
+- Blueberries [49][51]
 - Pomegranate extract [49] (to avoid sugar from pomegranate). Avoid drinking alongside an ARB treatment.
 - Hawthorn extract seems like a magic thing that does plenty of good [49]
+- Allicin in garlic is present in supplements, but not in garlic powder. Allicin does not form when the garlic is heated. Allicin forms during 10 min after garlic is crushed, so better to not cook it straight after crushing it [51]
 
 ## Unclear
 - "While low blood levels of vitamin D are associated with elevated blood pressure, a comprehensive review of 46 clinical trials concluded taking a vitamin D supplement was ineffective for lowering blood pressure, regardless of starting levels of vitamin D in the blood." [15]
@@ -111,3 +112,4 @@
 - [48] [#1 Best Way to Lower Blood Pressure Naturally and Fast (2025)](https://www.youtube.com/watch?v=lh9U2VNngII)
 - [49] [Top 5 AT HOME Remedies to Lower Blood Pressure (2025)](https://www.youtube.com/watch?v=pEGj3yjcfEg)
 - [50] [Do This Now to Lower Your Heart Disease Risk by 21% (2025)](https://www.youtube.com/watch?v=MmKVtX98zlM)
+- [51] [How to Lower Blood Pressure *Naturally* in Weeks | No Meds Needed (2025)][https://www.youtube.com/watch?v=GABX1bs2FHA]

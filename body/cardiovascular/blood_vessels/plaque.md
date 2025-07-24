@@ -6,6 +6,7 @@
 - High intensity interval training can redrill capillaries that can reach insulin receptors [31]
 - Maybe garlic can be interesting [33]
 - Inflammation is very important, not just cholesterol [34]
+- Improve fat metabolism [35]
 
 # References
 - [1] [How I Reversed 20 years of Arterial Plaque - PrevMed Health (2017)](https://youtu.be/QOWF0KTNu2g)
@@ -43,3 +44,5 @@
 - [32] [These 5 Foods Stop Arterial Plaque (2024)](https://www.youtube.com/watch?v=YyCxAjp5W7M)
 - [33] [THIS little known Natural Supplement SHRINKS Plaque | And no one’s talking about it! (2025)](https://www.youtube.com/watch?v=NUGg-s2raYw)
 - [34] [The TRUTH About Statins - What Your Doctor Isn't Telling You (2025)](https://www.youtube.com/watch?v=gvC9PG-2yhM)
+- [35] [Your Arteries are Diseased - THIS is how you Restore them! (2025)](https://www.youtube.com/watch?v=AieUwqvRsIM)
+- [36] [Exercise shrinks Plaque, but it does more than that… (2025)](https://www.youtube.com/watch?v=2nTDD3v4dWE)
