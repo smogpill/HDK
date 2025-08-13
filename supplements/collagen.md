@@ -12,6 +12,9 @@ Also known as Collagen Peptides
 - Improved tendons strength [1]
 - Collagen-based supplement shows significantly higher wound healing rates over just proteins (soy) [1][6]
 
+# Cons
+- Studies may have been biased. A meta-analysis found that by separating high quality independent studies from the biased ones, they noticed that collagen had no effect on skin aging [26]
+
 # Misc
 - Effects can take weeks or months [13]
 
@@ -41,3 +44,4 @@ Also known as Collagen Peptides
 - [23] [Collagen Hydrolysates for Skin Protection: Oral Administration and Topical Formulation (2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7070905/)
 - [24] [Evaluation of the Efficacy of a Hydrolyzed Collagen Supplement for Improving Skin Moisturization, Smoothness, and Wrinkles (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8944283/)
 - [25] [Significant Amounts of Functional Collagen Peptides Can Be Incorporated in the Diet While Maintaining Indispensable Amino Acid Balance (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566836/)
+- [26] [“No Evidence to Support the Use of Collagen Supplements” (2025)](https://www.youtube.com/watch?v=U8uPzDdG77c)
