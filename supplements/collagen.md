@@ -14,6 +14,7 @@ Also known as Collagen Peptides
 
 # Cons
 - Studies may have been biased. A meta-analysis found that by separating high quality independent studies from the biased ones, they noticed that collagen had no effect on skin aging [26]
+- In theory improved joint health [27] but the studies are limited (short studies, biased, only on people with disease, no comparison with proteins, etc.). So it unclear if improvements are automatic for everybody.
 
 # Misc
 - Effects can take weeks or months [13]
@@ -45,3 +46,4 @@ Also known as Collagen Peptides
 - [24] [Evaluation of the Efficacy of a Hydrolyzed Collagen Supplement for Improving Skin Moisturization, Smoothness, and Wrinkles (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8944283/)
 - [25] [Significant Amounts of Functional Collagen Peptides Can Be Incorporated in the Diet While Maintaining Indispensable Amino Acid Balance (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566836/)
 - [26] [“No Evidence to Support the Use of Collagen Supplements” (2025)](https://www.youtube.com/watch?v=U8uPzDdG77c)
+- [27] [Collagen: Joint Pain Relief or Pointless Supplement? (2025)](https://www.youtube.com/watch?v=b31ZarEqpMc)
