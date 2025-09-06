@@ -1,4 +1,8 @@
+# Pros
 - Mechanical stimulation of the face can improve drainage [5]
+
+# Cons
+- Overworked neurons burn out and fueld Parkison's disease [6]
 
 # References
 - [1] [Scientists may have discovered mechanism behind cognitive decline in aging (2023)](https://medicalxpress.com/news/2023-07-scientists-mechanism-cognitive-decline-aging.html)
@@ -6,3 +10,4 @@
 - [3] [The effects of genetic and modifiable risk factors on brain regions vulnerable to ageing and disease (2024)](https://www.nature.com/articles/s41467-024-46344-2)[article](https://www.ox.ac.uk/news/2024-03-27-risk-factors-faster-aging-brain-revealed-new-study)[reddit](https://www.reddit.com/r/science/comments/1bp7tlt/risk_factors_for_faster_aging_in_the_brain_that/)
 - [4] [Glycemic control contributes to the neuroprotective effects of Mediterranean and green-Mediterranean diets on brain age: the DIRECT PLUS brain-magnetic resonance imaging randomized controlled trial (2024)](https://www.sciencedirect.com/science/article/pii/S0002916524007457)[Article](https://www.eurekalert.org/news-releases/1063586)[Reddit](https://www.reddit.com/r/science/comments/1gjkhmp/new_study_reveals_blood_sugar_control_is_a_key/)
 - [5] [Increased CSF drainage by non-invasive manipulation of cervical lymphatics (2025)](https://www.nature.com/articles/s41586-025-09052-5)[Article](https://neurosciencenews.com/facial-stimulation-glymphatic-29213/)
+- [6] [Chronic hyperactivation of midbrain dopamine neurons causes preferential dopamine neuron degeneration (2025)](https://elifesciences.org/articles/98775)[Article](https://www.sciencedaily.com/releases/2025/09/250902085158.htm)
