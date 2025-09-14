@@ -2,6 +2,8 @@
 
 # Pros
 - The gut can generate CCHa1 when eating a protein-rich diet which helps deep sleep [1]
+- The source of the protein should matter more than the quantity. Studies showing high quantity of protein not being great for longevity don't separate bad proteins from good proteins [13]
+- Source of protein is important for young or middle-age people, then when getting older just getting protein whatever the source is enough [13]
 
 # Cons
 - Hyperprotein diet can damage kidneys if there is ground for kidney problems (hypertension, various kidney diseases, etc.)[2]
@@ -21,3 +23,4 @@
 - [10] [Get Protein Right, Avoid Dying 6.4 Years Too Early (2024)](https://www.youtube.com/watch?v=IA0FSjfdACY)
 - [11] [Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/)
 - [12] [The Most Potent Anti-Death Foods (2024)](https://www.youtube.com/watch?v=T6s6-NsgfKI)
+- [13] [Are you Eating Too Much Protein?](https://www.youtube.com/watch?v=y-A8C7U9L8E)
