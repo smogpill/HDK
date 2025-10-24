@@ -1,3 +1,7 @@
+# Posology
+- Magnesium glycinate might be better for sleep (should be confirmed)
+- Magneisum citrate might be a laxative (should be confirmed)
+
 # Pros
 - Magnesium taurate protects against damage:
 -- Heart [1]
@@ -24,3 +28,4 @@
 - [8] [Complementary vascular-protective actions of magnesium and taurine: A rationale for magnesium taurate (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0306987796900079)
 - [9] [The One Supplement EVERYONE Should Take](https://www.youtube.com/watch?v=3HtDE-7IOHQ)
 - [10] [The BIG Magnesium MISTAKE 52% of People Are Making (2024)](https://www.youtube.com/watch?v=9X6pweXDxjg)
+- [11] [Magnesium, the microbiome, and reducing the risk of colon cancer (2025)](https://ajcn.nutrition.org/article/S0002-9165(25)00527-1/fulltext)[Article](https://newatlas.com/health-wellbeing/magnesium-supplements-gut-bacteria-colorectal-cancer/)[Reddit](https://www.reddit.com/r/science/comments/1nmoge7/new_clinical_trial_suggests_magnesium_supplements/)

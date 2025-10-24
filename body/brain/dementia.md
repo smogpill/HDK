@@ -17,3 +17,4 @@
 - [13] [Long-Term Effect of Intensive vs Standard Blood Pressure Control on Mild Cognitive Impairment and Probable Dementia in SPRINT (2025)](https://www.neurology.org/doi/abs/10.1212/WNL.0000000000213334)
 - [14] [Prehypertension in midlife is associated with worse cognition a decade later in middle-aged and older women (2015)](https://pubmed.ncbi.nlm.nih.gov/25814553/)
 - [15] [Scientists Just Found an EASY Way to Cut Dementia Risk By 15% (2025)](https://www.youtube.com/watch?v=vUUqRQzQls0)
+- [16] [MRI markers of cerebrospinal fluid dynamics predict dementia and mediate the impact of cardiovascular risk (2025)](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70699)[Article](https://www.cam.ac.uk/research/news/dementia-linked-to-problems-with-brains-waste-clearance-system)[Reddit](https://www.reddit.com/r/science/comments/1oedveg/dementia_linked_to_problems_with_brains_waste/)

@@ -47,3 +47,4 @@ Also known as Collagen Peptides
 - [25] [Significant Amounts of Functional Collagen Peptides Can Be Incorporated in the Diet While Maintaining Indispensable Amino Acid Balance (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566836/)
 - [26] [“No Evidence to Support the Use of Collagen Supplements” (2025)](https://www.youtube.com/watch?v=U8uPzDdG77c)
 - [27] [Collagen: Joint Pain Relief or Pointless Supplement? (2025)](https://www.youtube.com/watch?v=b31ZarEqpMc)
+- [28] [“Collagen Supplements are a Scam” (2025)](https://www.youtube.com/watch?v=WDhi-tcymmQ)
