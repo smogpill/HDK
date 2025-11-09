@@ -1,0 +1,2 @@
+# References
+- [1] [Attentional failures after sleep deprivation are locked to joint neurovascular, pupil and cerebrospinal fluid flow dynamics (2025)](https://www.nature.com/articles/s41593-025-02098-8)[Article](https://www.theguardian.com/science/2025/oct/29/brain-changes-lapses-of-attention-tired-sleep-deprived)[Reddit](https://www.reddit.com/r/science/comments/1ojy7qc/lapses_of_attention_leading_to_zoning_out_in/)

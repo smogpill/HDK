@@ -6,7 +6,8 @@
 - Isometric exercises seem surprisingly great at reducing diastolic [12]
 
 # Target
-- Target should be 120/80 or lower instead of 140/90 [17][18][24]
+- Target should be 120/80 or lower instead of 140/90 [17][18][24][52]
+- Lowering blood pressure to new lower targets reduces dementia by 15% [52]
 
 # Diet/supplements
 
@@ -113,3 +114,4 @@
 - [49] [Top 5 AT HOME Remedies to Lower Blood Pressure (2025)](https://www.youtube.com/watch?v=pEGj3yjcfEg)
 - [50] [Do This Now to Lower Your Heart Disease Risk by 21% (2025)](https://www.youtube.com/watch?v=MmKVtX98zlM)
 - [51] [How to Lower Blood Pressure *Naturally* in Weeks | No Meds Needed (2025)][https://www.youtube.com/watch?v=GABX1bs2FHA]
+- [52] [Scientists Just Found an EASY Way to Cut Dementia Risk By 15% (2025)](https://www.youtube.com/watch?v=vUUqRQzQls0)
