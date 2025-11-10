@@ -22,3 +22,4 @@
 - [16] [MRI markers of cerebrospinal fluid dynamics predict dementia and mediate the impact of cardiovascular risk (2025)](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70699)[Article](https://www.cam.ac.uk/research/news/dementia-linked-to-problems-with-brains-waste-clearance-system)[Reddit](https://www.reddit.com/r/science/comments/1oedveg/dementia_linked_to_problems_with_brains_waste/)
 - [17] [What Is the Association Between Music-Related Leisure Activities and Dementia Risk? A Cohort Study (2025)](https://onlinelibrary.wiley.com/doi/10.1002/gps.70163)[Reddit](https://www.reddit.com/r/science/comments/1oh9fm3/consistently_listening_to_music_was_associated/)
 - [18] [Scientists Just Found an EASY Way to Cut Dementia Risk By 15% (2025)](https://www.youtube.com/watch?v=vUUqRQzQls0)
+- [19] [STOP Doing THIS! Your Dementia Risk Skyrockets By 80% (2025)](https://www.youtube.com/watch?v=TMK-aYM4g7s)
