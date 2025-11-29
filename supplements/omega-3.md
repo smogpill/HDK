@@ -7,6 +7,7 @@
 
 # Pros
 - High omega-3 is good to prevent depression [7]
+- DHA prevents dementia [14]
 
 # Cons
 - "High" amount can cause fibrillation. Though the "high" bar might be quite low, exact status is still unknown [5][6][8][9]
@@ -14,6 +15,7 @@
 
 # Posology
 - 1-2 capsules per day [1]
+- > 1 gram per day [14] (not necessarily as supplement)
 
 # References
 - [1] [Longevity Supplements That *Actually* Work | July 2023 - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=_hOxXq0wi-0)
@@ -29,3 +31,4 @@
 - [11] [Your Brain on Omega-3, a Tantalizing Discovery! (2024)](https://www.youtube.com/watch?v=Yg77_SrN6rw)
 - [12] [Association Between Omega‐3 Fatty Acid Intake and Dyslipidemia: A Continuous Dose–Response Meta‐Analysis of Randomized Controlled Trials (2023)](https://www.ahajournals.org/doi/10.1161/JAHA.123.029512)
 - [13] [If you’re taking Fish Oil… Your Arteries are Quickly Changing. (2025)](https://www.youtube.com/watch?v=jdYETp-JbXA)
+- [14] [One Fat Can Prevent Dementia — If You Eat It Long-term (2025)](https://www.youtube.com/watch?v=7UsRrTwXe3Y)

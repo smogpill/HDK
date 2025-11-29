@@ -2,6 +2,7 @@
 - Blood pressure at mild life, even at "safe levels", has a significant impact on late dementia (even by a factor of up to x5) [6][7][8][9][10][11][12][13][14]
 - Constantly listening to music might reduce dementia risks [17]
 - Lowering blood pressure to new lower targets reduces dementia by 15% [18]
+- DHA omega-3 reduces dementia [20]
 
 # References
 - [1] [Causal evidence that herpes zoster vaccination prevents a proportion of dementia cases (2023)](https://www.medrxiv.org/content/10.1101/2023.05.23.23290253v1)[Reddit](https://www.reddit.com/r/longevity/comments/13sgee5/causal_evidence_that_herpes_zoster_vaccination/)
@@ -23,3 +24,4 @@
 - [17] [What Is the Association Between Music-Related Leisure Activities and Dementia Risk? A Cohort Study (2025)](https://onlinelibrary.wiley.com/doi/10.1002/gps.70163)[Reddit](https://www.reddit.com/r/science/comments/1oh9fm3/consistently_listening_to_music_was_associated/)
 - [18] [Scientists Just Found an EASY Way to Cut Dementia Risk By 15% (2025)](https://www.youtube.com/watch?v=vUUqRQzQls0)
 - [19] [STOP Doing THIS! Your Dementia Risk Skyrockets By 80% (2025)](https://www.youtube.com/watch?v=TMK-aYM4g7s)
+- [20] [One Fat Can Prevent Dementia — If You Eat It Long-term (2025)](https://www.youtube.com/watch?v=7UsRrTwXe3Y)
