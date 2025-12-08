@@ -16,6 +16,7 @@
 # Posology
 - 1-2 capsules per day [1]
 - > 1 gram per day [14] (not necessarily as supplement)
+- Might not be better to take D3 and K2 together [15]
 
 # References
 - [1] [Longevity Supplements That *Actually* Work | July 2023 - Dr Brad Stanfield (2023)](https://www.youtube.com/watch?v=_hOxXq0wi-0)
@@ -32,3 +33,5 @@
 - [12] [Association Between Omega‐3 Fatty Acid Intake and Dyslipidemia: A Continuous Dose–Response Meta‐Analysis of Randomized Controlled Trials (2023)](https://www.ahajournals.org/doi/10.1161/JAHA.123.029512)
 - [13] [If you’re taking Fish Oil… Your Arteries are Quickly Changing. (2025)](https://www.youtube.com/watch?v=jdYETp-JbXA)
 - [14] [One Fat Can Prevent Dementia — If You Eat It Long-term (2025)](https://www.youtube.com/watch?v=7UsRrTwXe3Y)
+- [15] [Don't take Vitamin D3 & Vit K2 together (2025)](https://www.youtube.com/watch?v=h5PMcpSyA1o)
+- [16] [Omega-3 Breakthrough Cuts Major Heart Events by 43% (2025)](https://www.youtube.com/watch?v=H8zUZOIZ7oY)
